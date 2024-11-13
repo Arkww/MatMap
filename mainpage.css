@@ -1,0 +1,57 @@
+
+body.dark {
+    background-color: black;
+}
+
+body.dark #map {
+    background-color: rgb(15, 13, 13);
+}
+
+body.light {
+    background-color: rgb(203, 220, 236);
+}
+
+body.light #map {
+    background-color: rgb(193, 200, 235);
+}
+
+
+#map {
+    margin-top: 30px;
+    height: 700px;
+    width: 100%;
+
+}
+
+#sec0 {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 20px;
+    align-items: center;
+}
+
+#buttons {
+    display: flex;
+    gap: 50px;
+}
+
+#sec1 {
+    display: flex;
+    justify-content: center;
+}
+/* Styles des labels de pays */
+.country-label {
+    font-size: 10px;
+    
+    color: #fcfcfc; /* Couleur du texte */
+    background: transparent; /* Enlève le fond */
+    border: none; /* Enlève les bordures */
+    box-shadow: none; /* Supprime l'ombre */
+
+    pointer-events: none; /* Empêche de sélectionner les labels */
+    font-family: "Faculty Glyphic", sans-serif;
+    font-weight: 40000;
+    font-style: normal;
+  }
+
+  
