@@ -18,7 +18,7 @@ body.light #map {
 
 #map {
     margin-top: 30px;
-    height: 700px;
+    height: 600px;
     width: 100%;
 
 }
@@ -35,8 +35,9 @@ body.light #map {
     gap: 50px;
 }
 
-#sec1 {
+body {
     display: flex;
+    flex-direction: column;
     justify-content: center;
 }
 /* Styles des labels de pays */
