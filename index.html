@@ -1,85 +1,93 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
-    <title>Vector Tiles in Leaflet JS</title>
+
+<head>
+  <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
+  <title>Vector Tiles in Leaflet JS</title>
+
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-ajax/2.1.0/leaflet.ajax.min.js" crossorigin="anonymous"
+    referrerpolicy="no-referrer"></script>
+  <link href="mainpage.css" rel="stylesheet" />
+  <link href="lightbutton.css" rel="stylesheet" />
+  <link href="buttonChoice.css" rel="stylesheet" />
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Faculty+Glyphic&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap"
+    rel="stylesheet">
+</head>
+
+<body class="dark">
+
+  <div id="sec0">
+
+    <div class="theme-switch">
+      <input type="checkbox" id="theme-checkbox" />
+      <label for="theme-checkbox">
+        <div></div>
+        <span>
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-6 h-6">
+            <path fill-rule="evenodd"
+              d="M9.528 1.718a.75.75 0 01.162.819A8.97 8.97 0 009 6a9 9 0 009 9 8.97 8.97 0 003.463-.69.75.75 0 01.981.98 10.503 10.503 0 01-9.694 6.46c-5.799 0-10.5-4.701-10.5-10.5 0-4.368 2.667-8.112 6.46-9.694a.75.75 0 01.818.162z"
+              clip-rule="evenodd"></path>
+          </svg>
+        </span>
+        <span>
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-6 h-6">
+            <path
+              d="M12 2.25a.75.75 0 01.75.75v2.25a.75.75 0 01-1.5 0V3a.75.75 0 01.75-.75zM7.5 12a4.5 4.5 0 119 0 4.5 4.5 0 01-9 0zM18.894 6.166a.75.75 0 00-1.06-1.06l-1.591 1.59a.75.75 0 101.06 1.061l1.591-1.59zM21.75 12a.75.75 0 01-.75.75h-2.25a.75.75 0 010-1.5H21a.75.75 0 01.75.75zM17.834 18.894a.75.75 0 001.06-1.06l-1.59-1.591a.75.75 0 10-1.061 1.06l1.59 1.591zM12 18a.75.75 0 01.75.75V21a.75.75 0 01-1.5 0v-2.25A.75.75 0 0112 18zM7.758 17.303a.75.75 0 00-1.061-1.06l-1.591 1.59a.75.75 0 001.06 1.061l1.591-1.59zM6 12a.75.75 0 01-.75.75H3a.75.75 0 010-1.5h2.25A.75.75 0 016 12zM6.697 7.757a.75.75 0 001.06-1.06l-1.59-1.591a.75.75 0 00-1.061 1.06l1.59 1.591z">
+            </path>
+          </svg>
+        </span>
+      </label>
+    </div>
+    <div id="buttons">
+      <button id="btn1" class="btn"><span>Blue</span></button>
+      <button id="btn2" class="btn"><span>Red</span></button>
+      <button id="btn3" class="btn"><span>Green</span></button>
+    </div>
+
+  </div>
+  </head>
+
+
+
+  <div id="map"></div>
+
+  <section id="bottom">
+    <div id="score">
+      <h2 class="answer"></h2>
+      <h1>Score = </h1>
+      <h1 id="score1">0</h1>
+      <h1>/</h1>
+      <h1 id="score2">0</h1>
+      <h2 class="answer"></h2>
       
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
-    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-ajax/2.1.0/leaflet.ajax.min.js" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-    <link href="mainpage.css" rel="stylesheet" />
-    <link href="lightbutton.css" rel="stylesheet" />
-    <link href="buttonChoice.css" rel="stylesheet" />
+    </div>
+    <div id="menu">
+      <h2>Highscore = <span id="highScore"></span></h2>
+      <h2>Click me to start the game</h2>
+    </div>
 
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Faculty+Glyphic&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
-  </head>
-  <body class="dark">
+    <div id="choices">
 
-    <div id="sec0">
-    
-        <div class="theme-switch">
-          <input type="checkbox" id="theme-checkbox" />
-          <label for="theme-checkbox">
-            <div></div>
-            <span>
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                viewBox="0 0 24 24"
-                fill="currentColor"
-                class="w-6 h-6"
-              >
-                <path
-                  fill-rule="evenodd"
-                  d="M9.528 1.718a.75.75 0 01.162.819A8.97 8.97 0 009 6a9 9 0 009 9 8.97 8.97 0 003.463-.69.75.75 0 01.981.98 10.503 10.503 0 01-9.694 6.46c-5.799 0-10.5-4.701-10.5-10.5 0-4.368 2.667-8.112 6.46-9.694a.75.75 0 01.818.162z"
-                  clip-rule="evenodd"
-                ></path>
-              </svg>
-            </span>
-            <span>
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                viewBox="0 0 24 24"
-                fill="currentColor"
-                class="w-6 h-6"
-              >
-                <path
-                  d="M12 2.25a.75.75 0 01.75.75v2.25a.75.75 0 01-1.5 0V3a.75.75 0 01.75-.75zM7.5 12a4.5 4.5 0 119 0 4.5 4.5 0 01-9 0zM18.894 6.166a.75.75 0 00-1.06-1.06l-1.591 1.59a.75.75 0 101.06 1.061l1.591-1.59zM21.75 12a.75.75 0 01-.75.75h-2.25a.75.75 0 010-1.5H21a.75.75 0 01.75.75zM17.834 18.894a.75.75 0 001.06-1.06l-1.59-1.591a.75.75 0 10-1.061 1.06l1.59 1.591zM12 18a.75.75 0 01.75.75V21a.75.75 0 01-1.5 0v-2.25A.75.75 0 0112 18zM7.758 17.303a.75.75 0 00-1.061-1.06l-1.591 1.59a.75.75 0 001.06 1.061l1.591-1.59zM6 12a.75.75 0 01-.75.75H3a.75.75 0 010-1.5h2.25A.75.75 0 016 12zM6.697 7.757a.75.75 0 001.06-1.06l-1.59-1.591a.75.75 0 00-1.061 1.06l1.59 1.591z"
-                ></path>
-              </svg>
-            </span>
-          </label>
-        </div>
-        <div id="buttons">
-            <button  id="btn1" class="btn"><span>Blue</span></button>
-            <button id="btn2" class="btn"><span>Red</span></button>
-            <button id="btn3" class="btn"><span>Green</span></button>
-        </div>
-        
-</div>
-  </head>
+      <div id="choice1" class="button">Click to start !<span class="button-border"></span></div>
 
-  <body>
+      <div id="choice2" class="button">Click to start !<span class="button-border"></span></div>
 
- 
-    <div id="map"></div>
+      <div id="choice3" class="button"> Click to start !<span class="button-border"></span></div>
 
-<div id="choices">
+      <div id="choice4" class="button">Click to start !<span class="button-border"></span></div>
 
-  <div id="choice1" class="button">Click to start !<span class="button-border"></span></div>
+    </div>
 
-  <div id="choice2" class="button">Click to start !<span class="button-border"></span></div>
+  </section>
 
-<div id="choice3" class="button"> Click to start !<span class="button-border"></span></div>
+</body>
+<script type="module" src="map.js"></script>
+<script type="module" src="choice.js"></script>
 
-<div id="choice4" class="button">Click to start !<span class="button-border"></span></div>
-
-</div>
-
-
-  
-  </body>
-  <script type="module" src="map.js"></script>
-  <script type="module" src="choice.js"></script>
 </html>

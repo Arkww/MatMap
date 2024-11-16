@@ -15,11 +15,23 @@ body.light #map {
     background-color: rgb(193, 200, 235);
 }
 
+.answer {
+    padding-left: 15rem;
+    padding-right: 15rem;
+    font-size: xx-large;
+}
 
 #map {
     margin-top: 30px;
-    height: 600px;
+    height: 35rem;
     width: 100%;
+
+}
+
+
+#score {
+    display: flex;
+    justify-content: space-between;
 
 }
 
@@ -55,4 +67,25 @@ body {
     font-style: normal;
   }
 
+
+  #bottom {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
   
+  #menu {
+    background-color: aquamarine;
+    flex-direction: column;
+    display: flex;
+    width: 30%;
+    transition-duration: 0.5s;
+    align-items: center;
+    justify-content: center;
+  }
+
+  #menu:hover {
+    scale: 1.1;
+  }
