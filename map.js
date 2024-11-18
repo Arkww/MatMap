@@ -172,7 +172,7 @@ var score = 0
 const cooldownTime = "1000"
 
 
-var listButtons = ["pop_est", "gdp_md_est", "lastcensus", "name_len"]
+var listButtons = ["Population estimated", "Country GDP", "GPD per capita", "Length of name"]
 var alreadyGuessed = []
 
 function setRandomValue() {
