@@ -172,7 +172,7 @@ var score = 0
 const cooldownTime = "1000"
 
 
-var listButtons = ["Population estimated", "Country GDP", "GPD per capita", "Length of name"]
+var listButtons = ["Estimated population", "Country GDP", "GDP per capita", "Length of the name", "Number of terrorist attacks","Number of university in the top 1000 worldwide"]
 var alreadyGuessed = []
 
 function setRandomValue() {
@@ -190,6 +190,7 @@ function setRandomValue() {
   alreadyGuessed.push(randomValue);
   current = randomValue;
   loadmap(current);
+  return current ;
 }
 
 // Event listeners for the buttons
@@ -206,7 +207,7 @@ const button2 = document.getElementById('choice2');
 button2.addEventListener("click", () => {
   disableButtons();
   updateScore(button2.innerHTML);
-  setRandomValue();
+  var c = setRandomValue();
   changeButtons();
   setTimeout(enableButtons, cooldownTime);
 });
@@ -288,14 +289,22 @@ document.addEventListener('DOMContentLoaded', () => {
 
 function getUniqueChoices(list) {
   const choices = [];
-  while (choices.length < list.length) {
+  
+
+  while (choices.length < list.length - 1) {  
     const randomChoice = list[Math.floor(Math.random() * list.length)];
-    if (!choices.includes(randomChoice)) {
+    if (!choices.includes(randomChoice) && randomChoice !== current) {
       choices.push(randomChoice);
     }
   }
+
+  const currentIndex = Math.floor(Math.random() * choices.length);
+  choices.splice(currentIndex, 0, current);
+  
   return choices;
 }
+
+
 
 function changeButtons() {
   const uniqueChoices = getUniqueChoices(listButtons);
@@ -398,7 +407,7 @@ const legend = L.control({ position: 'bottomright' });
 function createLegend() {
   legend.onAdd = function (map) {
     const div = L.DomUtil.create('div', 'info legend');
-    div.style.backgroundColor = '#f0f0f0'; // Change to any color you want
+    div.style.backgroundColor = '#b1a7a6'; // Change to any color you want
     div.style.padding = '10px'; // Optional: add padding for better spacing
     div.style.borderRadius = '5px'; // Optional: add rounded corners
     div.style.boxShadow = '0 0 10px rgba(0,0,0,0.2)'; // Optional: add shadow for depth

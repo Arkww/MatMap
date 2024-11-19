@@ -1,20 +1,13 @@
-import kagglehub
-import shutil
-import os
+# use this script to put a csv into the database, choosing which column and which value
+
+
 import json
 import pandas as pd
 
 
-# Download latest version
-path = kagglehub.dataset_download("unsdsn/world-happiness")
-target_path = os.getcwd()
 
-print("Path to dataset files:", path)
-shutil.move(path, target_path)
-
-
-df = pd.read_csv("2/2019.csv")
-print(df.head())
+df = pd.read_csv("")
+# if you have an encoding error you can try adding "encoding='ISO-8859-1'"
 
 
 geojson_file = "world.geojson"
@@ -22,17 +15,18 @@ with open(geojson_file, "r") as f:
     geojson_data = json.load(f)
 
 
-country_column = "Country or region"  
+country_column = "country_txt"  
 
 for feature in geojson_data["features"]:
-    country_name = feature["properties"]["name"]
+     country_name = feature["properties"]["name"]
 
-    matching_row = df[df[country_column] == country_name]
+     matching_row = df[df[country_column] == country_name]
 
-    if not matching_row.empty:
-        feature["properties"]["GDP per capita"] = matching_row.iloc[0]["GDP per capita"]
+     if not matching_row.empty: 
+         feature["properties"]["GDP per capita"] = matching_row.iloc[0]["GDP per capita"]
 
-# Save the updated GeoJSON
+# When you add a new data entry, don't forget to also add it in the listButtons list of the map.js file
+
 output_file = "world.geojson"
 with open(output_file, "w") as f:
     json.dump(geojson_data, f, indent=2)

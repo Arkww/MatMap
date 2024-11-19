@@ -16,7 +16,9 @@
         "Country GDP": 22270,
         "Estimated population": 28400000,
         "Length of the name": 11,
-        "GDP per capita": 0.35
+        "GDP per capita": 0.35,
+        "Number of terrorist attacks": 12731,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -316,7 +318,9 @@
         "subregion": "Middle Africa",
         "Country GDP": 110300,
         "Estimated population": 12799293,
-        "Length of the name": 6
+        "Length of the name": 6,
+        "Number of terrorist attacks": 499,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -647,7 +651,9 @@
         "Country GDP": 21810,
         "Estimated population": 3639453,
         "Length of the name": 7,
-        "GDP per capita": 0.947
+        "GDP per capita": 0.947,
+        "Number of terrorist attacks": 80,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -760,7 +766,9 @@
         "Country GDP": 184300,
         "Estimated population": 4798491,
         "Length of the name": 20,
-        "GDP per capita": 1.503
+        "GDP per capita": 1.503,
+        "Number of terrorist attacks": 22,
+        "Number of university in the top 1000 worldwide": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -873,7 +881,9 @@
         "Country GDP": 573900,
         "Estimated population": 40913584,
         "Length of the name": 9,
-        "GDP per capita": 1.092
+        "GDP per capita": 1.092,
+        "Number of terrorist attacks": 815,
+        "Number of university in the top 1000 worldwide": 7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1388,7 +1398,9 @@
         "Country GDP": 18770,
         "Estimated population": 2967004,
         "Length of the name": 7,
-        "GDP per capita": 0.85
+        "GDP per capita": 0.85,
+        "Number of terrorist attacks": 24,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -1492,7 +1504,9 @@
         "subregion": "Antarctica",
         "Country GDP": 760.4,
         "Estimated population": 3802,
-        "Length of the name": 10
+        "Length of the name": 10,
+        "Number of terrorist attacks": 0,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -4190,7 +4204,9 @@
         "subregion": "Seven seas (open ocean)",
         "Country GDP": 16,
         "Estimated population": 140,
-        "Length of the name": 22
+        "Length of the name": 22,
+        "Number of terrorist attacks": 0,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -4251,7 +4267,9 @@
         "Country GDP": 800200,
         "Estimated population": 21262641,
         "Length of the name": 9,
-        "GDP per capita": 1.372
+        "GDP per capita": 1.372,
+        "Number of terrorist attacks": 114,
+        "Number of university in the top 1000 worldwide": 58
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5246,7 +5264,9 @@
         "Country GDP": 329500,
         "Estimated population": 8210281,
         "Length of the name": 7,
-        "GDP per capita": 1.376
+        "GDP per capita": 1.376,
+        "Number of terrorist attacks": 115,
+        "Number of university in the top 1000 worldwide": 24
       },
       "geometry": {
         "type": "Polygon",
@@ -5419,7 +5439,9 @@
         "Country GDP": 77610,
         "Estimated population": 8238672,
         "Length of the name": 10,
-        "GDP per capita": 1.043
+        "GDP per capita": 1.043,
+        "Number of terrorist attacks": 49,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5626,7 +5648,9 @@
         "Country GDP": 3102,
         "Estimated population": 8988091,
         "Length of the name": 7,
-        "GDP per capita": 0.046
+        "GDP per capita": 0.046,
+        "Number of terrorist attacks": 613,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -5703,7 +5727,9 @@
         "Country GDP": 389300,
         "Estimated population": 10414336,
         "Length of the name": 7,
-        "GDP per capita": 1.356
+        "GDP per capita": 1.356,
+        "Number of terrorist attacks": 154,
+        "Number of university in the top 1000 worldwide": 20
       },
       "geometry": {
         "type": "Polygon",
@@ -5788,7 +5814,9 @@
         "Country GDP": 12830,
         "Estimated population": 8791832,
         "Length of the name": 5,
-        "GDP per capita": 0.393
+        "GDP per capita": 0.393,
+        "Number of terrorist attacks": 8,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -5913,7 +5941,9 @@
         "Country GDP": 17820,
         "Estimated population": 15746232,
         "Length of the name": 12,
-        "GDP per capita": 0.331
+        "GDP per capita": 0.331,
+        "Number of terrorist attacks": 52,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -6094,7 +6124,9 @@
         "Country GDP": 224000,
         "Estimated population": 156050883,
         "Length of the name": 10,
-        "GDP per capita": 0.562
+        "GDP per capita": 0.562,
+        "Number of terrorist attacks": 1648,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -6263,7 +6295,9 @@
         "Country GDP": 93750,
         "Estimated population": 7204687,
         "Length of the name": 8,
-        "GDP per capita": 1.092
+        "GDP per capita": 1.092,
+        "Number of terrorist attacks": 52,
+        "Number of university in the top 1000 worldwide": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -6399,7 +6433,9 @@
         "subregion": "Caribbean",
         "Country GDP": 9093,
         "Estimated population": 309156,
-        "Length of the name": 7
+        "Length of the name": 7,
+        "Number of terrorist attacks": 5,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6517,7 +6553,9 @@
         "subregion": "Southern Europe",
         "Country GDP": 29700,
         "Estimated population": 4613414,
-        "Length of the name": 16
+        "Length of the name": 16,
+        "Number of terrorist attacks": 0,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -6630,7 +6668,9 @@
         "Country GDP": 114100,
         "Estimated population": 9648533,
         "Length of the name": 7,
-        "GDP per capita": 1.067
+        "GDP per capita": 1.067,
+        "Number of terrorist attacks": 13,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -6830,7 +6870,9 @@
         "subregion": "Central America",
         "Country GDP": 2536,
         "Estimated population": 307899,
-        "Length of the name": 6
+        "Length of the name": 6,
+        "Number of terrorist attacks": 8,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -6935,7 +6977,9 @@
         "Country GDP": 43270,
         "Estimated population": 9775246,
         "Length of the name": 7,
-        "GDP per capita": 0.776
+        "GDP per capita": 0.776,
+        "Number of terrorist attacks": 314,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -7200,7 +7244,9 @@
         "Country GDP": 1993000,
         "Estimated population": 198739269,
         "Length of the name": 6,
-        "GDP per capita": 1.004
+        "GDP per capita": 1.004,
+        "Number of terrorist attacks": 273,
+        "Number of university in the top 1000 worldwide": 36
       },
       "geometry": {
         "type": "Polygon",
@@ -8036,7 +8082,9 @@
         "subregion": "South-Eastern Asia",
         "Country GDP": 20250,
         "Estimated population": 388190,
-        "Length of the name": 6
+        "Length of the name": 6,
+        "Number of terrorist attacks": 6,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -8093,7 +8141,9 @@
         "Country GDP": 3524,
         "Estimated population": 691141,
         "Length of the name": 6,
-        "GDP per capita": 0.813
+        "GDP per capita": 0.813,
+        "Number of terrorist attacks": 6,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -8170,7 +8220,9 @@
         "Country GDP": 27060,
         "Estimated population": 1990876,
         "Length of the name": 8,
-        "GDP per capita": 1.041
+        "GDP per capita": 1.041,
+        "Number of terrorist attacks": 10,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -8354,7 +8406,9 @@
         "subregion": "Middle Africa",
         "Country GDP": 3198,
         "Estimated population": 4511488,
-        "Length of the name": 20
+        "Length of the name": 20,
+        "Number of terrorist attacks": 0,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -8627,7 +8681,9 @@
         "Country GDP": 1300000,
         "Estimated population": 33487208,
         "Length of the name": 6,
-        "GDP per capita": 1.365
+        "GDP per capita": 1.365,
+        "Number of terrorist attacks": 96,
+        "Number of university in the top 1000 worldwide": 72
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11938,7 +11994,9 @@
         "Country GDP": 316700,
         "Estimated population": 7604467,
         "Length of the name": 11,
-        "GDP per capita": 1.452
+        "GDP per capita": 1.452,
+        "Number of terrorist attacks": 111,
+        "Number of university in the top 1000 worldwide": 26
       },
       "geometry": {
         "type": "Polygon",
@@ -12059,7 +12117,9 @@
         "Country GDP": 244500,
         "Estimated population": 16601707,
         "Length of the name": 5,
-        "GDP per capita": 1.159
+        "GDP per capita": 1.159,
+        "Number of terrorist attacks": 2365,
+        "Number of university in the top 1000 worldwide": 8
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12546,7 +12606,9 @@
         "Country GDP": 7973000,
         "Estimated population": 1338612970,
         "Length of the name": 5,
-        "GDP per capita": 1.029
+        "GDP per capita": 1.029,
+        "Number of terrorist attacks": 252,
+        "Number of university in the top 1000 worldwide": 167
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13536,7 +13598,9 @@
         "subregion": "Western Africa",
         "Country GDP": 33850,
         "Estimated population": 20617068,
-        "Length of the name": 13
+        "Length of the name": 13,
+        "Number of terrorist attacks": 0,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -13745,7 +13809,9 @@
         "Country GDP": 42750,
         "Estimated population": 18879301,
         "Length of the name": 8,
-        "GDP per capita": 0.549
+        "GDP per capita": 0.549,
+        "Number of terrorist attacks": 332,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -14013,7 +14079,9 @@
         "subregion": "Middle Africa",
         "Country GDP": 20640,
         "Estimated population": 68692542,
-        "Length of the name": 15
+        "Length of the name": 15,
+        "Number of terrorist attacks": 0,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -14525,7 +14593,9 @@
         "subregion": "Middle Africa",
         "Country GDP": 15350,
         "Estimated population": 4012809,
-        "Length of the name": 5
+        "Length of the name": 5,
+        "Number of terrorist attacks": 0,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -14746,7 +14816,9 @@
         "Country GDP": 395400,
         "Estimated population": 45644023,
         "Length of the name": 8,
-        "GDP per capita": 0.985
+        "GDP per capita": 0.985,
+        "Number of terrorist attacks": 8306,
+        "Number of university in the top 1000 worldwide": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -15171,7 +15243,9 @@
         "Country GDP": 48320,
         "Estimated population": 4253877,
         "Length of the name": 10,
-        "GDP per capita": 1.034
+        "GDP per capita": 1.034,
+        "Number of terrorist attacks": 67,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -15339,7 +15413,9 @@
         "subregion": "Caribbean",
         "Country GDP": 108200,
         "Estimated population": 11451652,
-        "Length of the name": 4
+        "Length of the name": 4,
+        "Number of terrorist attacks": 30,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -15531,7 +15607,9 @@
         "subregion": "Western Asia",
         "Country GDP": 3600,
         "Estimated population": 265100,
-        "Length of the name": 9
+        "Length of the name": 9,
+        "Number of terrorist attacks": 0,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -15620,7 +15698,9 @@
         "Country GDP": 22700,
         "Estimated population": 531640,
         "Length of the name": 6,
-        "GDP per capita": 1.263
+        "GDP per capita": 1.263,
+        "Number of terrorist attacks": 132,
+        "Number of university in the top 1000 worldwide": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -15704,7 +15784,9 @@
         "subregion": "Eastern Europe",
         "Country GDP": 265200,
         "Estimated population": 10211904,
-        "Length of the name": 10
+        "Length of the name": 10,
+        "Number of terrorist attacks": 0,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -15869,7 +15951,9 @@
         "Country GDP": 2918000,
         "Estimated population": 82329758,
         "Length of the name": 7,
-        "GDP per capita": 1.373
+        "GDP per capita": 1.373,
+        "Number of terrorist attacks": 735,
+        "Number of university in the top 1000 worldwide": 115
       },
       "geometry": {
         "type": "Polygon",
@@ -16125,7 +16209,9 @@
         "subregion": "Eastern Africa",
         "Country GDP": 1885,
         "Estimated population": 516055,
-        "Length of the name": 8
+        "Length of the name": 8,
+        "Number of terrorist attacks": 22,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -16210,7 +16296,9 @@
         "Country GDP": 203600,
         "Estimated population": 5500510,
         "Length of the name": 7,
-        "GDP per capita": 1.383
+        "GDP per capita": 1.383,
+        "Number of terrorist attacks": 41,
+        "Number of university in the top 1000 worldwide": 12
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16336,7 +16424,9 @@
         "subregion": "Caribbean",
         "Country GDP": 78000,
         "Estimated population": 9650054,
-        "Length of the name": 14
+        "Length of the name": 14,
+        "Number of terrorist attacks": 0,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -16465,7 +16555,9 @@
         "Country GDP": 232900,
         "Estimated population": 34178188,
         "Length of the name": 7,
-        "GDP per capita": 1.002
+        "GDP per capita": 1.002,
+        "Number of terrorist attacks": 2743,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -16738,7 +16830,9 @@
         "Country GDP": 107700,
         "Estimated population": 14573101,
         "Length of the name": 7,
-        "GDP per capita": 0.912
+        "GDP per capita": 0.912,
+        "Number of terrorist attacks": 220,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -16895,7 +16989,9 @@
         "Country GDP": 443700,
         "Estimated population": 83082869,
         "Length of the name": 5,
-        "GDP per capita": 0.913
+        "GDP per capita": 0.913,
+        "Number of terrorist attacks": 2479,
+        "Number of university in the top 1000 worldwide": 8
       },
       "geometry": {
         "type": "Polygon",
@@ -17087,7 +17183,9 @@
         "subregion": "Eastern Africa",
         "Country GDP": 3945,
         "Estimated population": 5647168,
-        "Length of the name": 7
+        "Length of the name": 7,
+        "Number of terrorist attacks": 10,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -17224,7 +17322,9 @@
         "Country GDP": 1403000,
         "Estimated population": 40525002,
         "Length of the name": 5,
-        "GDP per capita": 1.286
+        "GDP per capita": 1.286,
+        "Number of terrorist attacks": 3249,
+        "Number of university in the top 1000 worldwide": 81
       },
       "geometry": {
         "type": "Polygon",
@@ -17453,7 +17553,9 @@
         "Country GDP": 27410,
         "Estimated population": 1299371,
         "Length of the name": 7,
-        "GDP per capita": 1.237
+        "GDP per capita": 1.237,
+        "Number of terrorist attacks": 16,
+        "Number of university in the top 1000 worldwide": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -17546,7 +17648,9 @@
         "Country GDP": 68770,
         "Estimated population": 85237338,
         "Length of the name": 8,
-        "GDP per capita": 0.336
+        "GDP per capita": 0.336,
+        "Number of terrorist attacks": 190,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -17807,7 +17911,9 @@
         "Country GDP": 193500,
         "Estimated population": 5250275,
         "Length of the name": 7,
-        "GDP per capita": 1.34
+        "GDP per capita": 1.34,
+        "Number of terrorist attacks": 20,
+        "Number of university in the top 1000 worldwide": 20
       },
       "geometry": {
         "type": "Polygon",
@@ -17983,7 +18089,9 @@
         "subregion": "Melanesia",
         "Country GDP": 3579,
         "Estimated population": 944720,
-        "Length of the name": 4
+        "Length of the name": 4,
+        "Number of terrorist attacks": 17,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18105,7 +18213,9 @@
         "subregion": "South America",
         "Country GDP": 105.1,
         "Estimated population": 3140,
-        "Length of the name": 12
+        "Length of the name": 12,
+        "Number of terrorist attacks": 0,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -18170,7 +18280,9 @@
         "Country GDP": 2128000,
         "Estimated population": 64057792,
         "Length of the name": 6,
-        "GDP per capita": 1.324
+        "GDP per capita": 1.324,
+        "Number of terrorist attacks": 2693,
+        "Number of university in the top 1000 worldwide": 109
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18501,7 +18613,9 @@
         "Country GDP": 21110,
         "Estimated population": 1514993,
         "Length of the name": 5,
-        "GDP per capita": 1.057
+        "GDP per capita": 1.057,
+        "Number of terrorist attacks": 8,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -18650,7 +18764,9 @@
         "Country GDP": 1977704,
         "Estimated population": 62262000,
         "Length of the name": 14,
-        "GDP per capita": 1.333
+        "GDP per capita": 1.333,
+        "Number of terrorist attacks": 5235,
+        "Number of university in the top 1000 worldwide": 144
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18905,7 +19021,9 @@
         "Country GDP": 21510,
         "Estimated population": 4615807,
         "Length of the name": 7,
-        "GDP per capita": 0.886
+        "GDP per capita": 0.886,
+        "Number of terrorist attacks": 217,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -19026,7 +19144,9 @@
         "Country GDP": 34200,
         "Estimated population": 23832495,
         "Length of the name": 5,
-        "GDP per capita": 0.611
+        "GDP per capita": 0.611,
+        "Number of terrorist attacks": 19,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -19151,7 +19271,9 @@
         "Country GDP": 10600,
         "Estimated population": 10057975,
         "Length of the name": 6,
-        "GDP per capita": 0.38
+        "GDP per capita": 0.38,
+        "Number of terrorist attacks": 25,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -19456,7 +19578,9 @@
         "Country GDP": 2272,
         "Estimated population": 1782893,
         "Length of the name": 6,
-        "GDP per capita": 0.308
+        "GDP per capita": 0.308,
+        "Number of terrorist attacks": 3,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -19544,7 +19668,9 @@
         "subregion": "Western Africa",
         "Country GDP": 904.2,
         "Estimated population": 1533964,
-        "Length of the name": 13
+        "Length of the name": 13,
+        "Number of terrorist attacks": 9,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -19644,7 +19770,9 @@
         "subregion": "Middle Africa",
         "Country GDP": 14060,
         "Estimated population": 650702,
-        "Length of the name": 10
+        "Length of the name": 10,
+        "Number of terrorist attacks": 0,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -19697,7 +19825,9 @@
         "Country GDP": 343000,
         "Estimated population": 10737428,
         "Length of the name": 6,
-        "GDP per capita": 1.181
+        "GDP per capita": 1.181,
+        "Number of terrorist attacks": 1275,
+        "Number of university in the top 1000 worldwide": 14
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19943,7 +20073,9 @@
         "subregion": "Northern America",
         "Country GDP": 1100,
         "Estimated population": 57600,
-        "Length of the name": 9
+        "Length of the name": 9,
+        "Number of terrorist attacks": 0,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -20496,7 +20628,9 @@
         "Country GDP": 68580,
         "Estimated population": 13276517,
         "Length of the name": 9,
-        "GDP per capita": 0.8
+        "GDP per capita": 0.8,
+        "Number of terrorist attacks": 2050,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -20660,7 +20794,9 @@
         "subregion": "South America",
         "Country GDP": 2966,
         "Estimated population": 772298,
-        "Length of the name": 6
+        "Length of the name": 6,
+        "Number of terrorist attacks": 26,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -20845,7 +20981,9 @@
         "Country GDP": 33720,
         "Estimated population": 7792854,
         "Length of the name": 8,
-        "GDP per capita": 0.642
+        "GDP per capita": 0.642,
+        "Number of terrorist attacks": 323,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -21098,7 +21236,9 @@
         "Country GDP": 82390,
         "Estimated population": 4489409,
         "Length of the name": 7,
-        "GDP per capita": 1.155
+        "GDP per capita": 1.155,
+        "Number of terrorist attacks": 57,
+        "Number of university in the top 1000 worldwide": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -21291,7 +21431,9 @@
         "Country GDP": 11500,
         "Estimated population": 9035536,
         "Length of the name": 5,
-        "GDP per capita": 0.323
+        "GDP per capita": 0.323,
+        "Number of terrorist attacks": 213,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -21400,7 +21542,9 @@
         "Country GDP": 196600,
         "Estimated population": 9905596,
         "Length of the name": 7,
-        "GDP per capita": 1.201
+        "GDP per capita": 1.201,
+        "Number of terrorist attacks": 46,
+        "Number of university in the top 1000 worldwide": 12
       },
       "geometry": {
         "type": "Polygon",
@@ -21549,7 +21693,9 @@
         "Country GDP": 914600,
         "Estimated population": 240271522,
         "Length of the name": 9,
-        "GDP per capita": 0.931
+        "GDP per capita": 0.931,
+        "Number of terrorist attacks": 761,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -22624,7 +22770,9 @@
         "Country GDP": 3297000,
         "Estimated population": 1166079220,
         "Length of the name": 5,
-        "GDP per capita": 0.755
+        "GDP per capita": 0.755,
+        "Number of terrorist attacks": 11960,
+        "Number of university in the top 1000 worldwide": 31
       },
       "geometry": {
         "type": "Polygon",
@@ -23193,7 +23341,9 @@
         "Country GDP": 188400,
         "Estimated population": 4203200,
         "Length of the name": 7,
-        "GDP per capita": 1.499
+        "GDP per capita": 1.499,
+        "Number of terrorist attacks": 307,
+        "Number of university in the top 1000 worldwide": 16
       },
       "geometry": {
         "type": "Polygon",
@@ -23270,7 +23420,9 @@
         "Country GDP": 841700,
         "Estimated population": 66429284,
         "Length of the name": 4,
-        "GDP per capita": 1.1
+        "GDP per capita": 1.1,
+        "Number of terrorist attacks": 684,
+        "Number of university in the top 1000 worldwide": 16
       },
       "geometry": {
         "type": "Polygon",
@@ -23595,7 +23747,9 @@
         "Country GDP": 103900,
         "Estimated population": 31129225,
         "Length of the name": 4,
-        "GDP per capita": 1.043
+        "GDP per capita": 1.043,
+        "Number of terrorist attacks": 24636,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -23740,7 +23894,9 @@
         "Country GDP": 12710,
         "Estimated population": 306694,
         "Length of the name": 7,
-        "GDP per capita": 1.38
+        "GDP per capita": 1.38,
+        "Number of terrorist attacks": 4,
+        "Number of university in the top 1000 worldwide": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -23845,7 +24001,9 @@
         "Country GDP": 201400,
         "Estimated population": 7233701,
         "Length of the name": 6,
-        "GDP per capita": 1.276
+        "GDP per capita": 1.276,
+        "Number of terrorist attacks": 2183,
+        "Number of university in the top 1000 worldwide": 22
       },
       "geometry": {
         "type": "Polygon",
@@ -23962,7 +24120,9 @@
         "Country GDP": 1823000,
         "Estimated population": 58126212,
         "Length of the name": 5,
-        "GDP per capita": 1.294
+        "GDP per capita": 1.294,
+        "Number of terrorist attacks": 1565,
+        "Number of university in the top 1000 worldwide": 96
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -24345,7 +24505,9 @@
         "Country GDP": 20910,
         "Estimated population": 2825928,
         "Length of the name": 7,
-        "GDP per capita": 0.831
+        "GDP per capita": 0.831,
+        "Number of terrorist attacks": 36,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -24414,7 +24576,9 @@
         "Country GDP": 31610,
         "Estimated population": 6342948,
         "Length of the name": 6,
-        "GDP per capita": 0.837
+        "GDP per capita": 0.837,
+        "Number of terrorist attacks": 113,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -24515,7 +24679,9 @@
         "Country GDP": 4329000,
         "Estimated population": 127078679,
         "Length of the name": 5,
-        "GDP per capita": 1.327
+        "GDP per capita": 1.327,
+        "Number of terrorist attacks": 402,
+        "Number of university in the top 1000 worldwide": 159
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -24810,7 +24976,9 @@
         "Country GDP": 175800,
         "Estimated population": 15399437,
         "Length of the name": 10,
-        "GDP per capita": 1.173
+        "GDP per capita": 1.173,
+        "Number of terrorist attacks": 27,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -25283,7 +25451,9 @@
         "Country GDP": 61510,
         "Estimated population": 39002772,
         "Length of the name": 5,
-        "GDP per capita": 0.512
+        "GDP per capita": 0.512,
+        "Number of terrorist attacks": 683,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -25456,7 +25626,9 @@
         "Country GDP": 11610,
         "Estimated population": 5431747,
         "Length of the name": 10,
-        "GDP per capita": 0.551
+        "GDP per capita": 0.551,
+        "Number of terrorist attacks": 35,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -25621,7 +25793,9 @@
         "Country GDP": 27940,
         "Estimated population": 14494293,
         "Length of the name": 8,
-        "GDP per capita": 0.574
+        "GDP per capita": 0.574,
+        "Number of terrorist attacks": 259,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -25713,7 +25887,9 @@
         "subregion": "Eastern Asia",
         "Country GDP": 1335000,
         "Estimated population": 48508972,
-        "Length of the name": 5
+        "Length of the name": 5,
+        "Number of terrorist attacks": 0,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -25814,7 +25990,9 @@
         "Country GDP": 5352,
         "Estimated population": 1804838,
         "Length of the name": 6,
-        "GDP per capita": 0.882
+        "GDP per capita": 0.882,
+        "Number of terrorist attacks": 196,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -25923,7 +26101,9 @@
         "Country GDP": 149100,
         "Estimated population": 2691158,
         "Length of the name": 6,
-        "GDP per capita": 1.5
+        "GDP per capita": 1.5,
+        "Number of terrorist attacks": 76,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -25983,7 +26163,9 @@
         "subregion": "South-Eastern Asia",
         "Country GDP": 13980,
         "Estimated population": 6834942,
-        "Length of the name": 7
+        "Length of the name": 7,
+        "Number of terrorist attacks": 0,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -26156,7 +26338,9 @@
         "Country GDP": 44060,
         "Estimated population": 4017095,
         "Length of the name": 7,
-        "GDP per capita": 0.987
+        "GDP per capita": 0.987,
+        "Number of terrorist attacks": 2478,
+        "Number of university in the top 1000 worldwide": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -26225,7 +26409,9 @@
         "Country GDP": 1526,
         "Estimated population": 3441790,
         "Length of the name": 7,
-        "GDP per capita": 0.073
+        "GDP per capita": 0.073,
+        "Number of terrorist attacks": 34,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -26358,7 +26544,9 @@
         "Country GDP": 88830,
         "Estimated population": 6310434,
         "Length of the name": 5,
-        "GDP per capita": 1.044
+        "GDP per capita": 1.044,
+        "Number of terrorist attacks": 2249,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -26607,7 +26795,9 @@
         "Country GDP": 91870,
         "Estimated population": 21324791,
         "Length of the name": 9,
-        "GDP per capita": 0.949
+        "GDP per capita": 0.949,
+        "Number of terrorist attacks": 3022,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -26672,7 +26862,9 @@
         "Country GDP": 3293,
         "Estimated population": 2130819,
         "Length of the name": 7,
-        "GDP per capita": 0.489
+        "GDP per capita": 0.489,
+        "Number of terrorist attacks": 29,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -26745,7 +26937,9 @@
         "Country GDP": 63330,
         "Estimated population": 3555179,
         "Length of the name": 9,
-        "GDP per capita": 1.238
+        "GDP per capita": 1.238,
+        "Number of terrorist attacks": 8,
+        "Number of university in the top 1000 worldwide": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -26846,7 +27040,9 @@
         "Country GDP": 39370,
         "Estimated population": 491775,
         "Length of the name": 10,
-        "GDP per capita": 1.609
+        "GDP per capita": 1.609,
+        "Number of terrorist attacks": 16,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -26899,7 +27095,9 @@
         "Country GDP": 38860,
         "Estimated population": 2231503,
         "Length of the name": 6,
-        "GDP per capita": 1.187
+        "GDP per capita": 1.187,
+        "Number of terrorist attacks": 17,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -27012,7 +27210,9 @@
         "Country GDP": 136600,
         "Estimated population": 34859364,
         "Length of the name": 7,
-        "GDP per capita": 0.801
+        "GDP per capita": 0.801,
+        "Number of terrorist attacks": 36,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -27293,7 +27493,9 @@
         "Country GDP": 10670,
         "Estimated population": 4320748,
         "Length of the name": 7,
-        "GDP per capita": 0.685
+        "GDP per capita": 0.685,
+        "Number of terrorist attacks": 21,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -27426,7 +27628,9 @@
         "Country GDP": 20130,
         "Estimated population": 20653556,
         "Length of the name": 10,
-        "GDP per capita": 0.274
+        "GDP per capita": 0.274,
+        "Number of terrorist attacks": 27,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -27647,7 +27851,9 @@
         "Country GDP": 1563000,
         "Estimated population": 111211789,
         "Length of the name": 6,
-        "GDP per capita": 1.07
+        "GDP per capita": 1.07,
+        "Number of terrorist attacks": 524,
+        "Number of university in the top 1000 worldwide": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -28351,7 +28557,9 @@
         "subregion": "Southern Europe",
         "Country GDP": 18780,
         "Estimated population": 2066718,
-        "Length of the name": 9
+        "Length of the name": 9,
+        "Number of terrorist attacks": 118,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -28444,7 +28652,9 @@
         "Country GDP": 14590,
         "Estimated population": 12666987,
         "Length of the name": 4,
-        "GDP per capita": 0.385
+        "GDP per capita": 0.385,
+        "Number of terrorist attacks": 566,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -28773,7 +28983,9 @@
         "Country GDP": 55130,
         "Estimated population": 48137741,
         "Length of the name": 7,
-        "GDP per capita": 0.71
+        "GDP per capita": 0.71,
+        "Number of terrorist attacks": 546,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -29078,7 +29290,9 @@
         "Country GDP": 6816,
         "Estimated population": 672180,
         "Length of the name": 10,
-        "GDP per capita": 1.051
+        "GDP per capita": 1.051,
+        "Number of terrorist attacks": 5,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -29175,7 +29389,9 @@
         "Country GDP": 9476,
         "Estimated population": 3041142,
         "Length of the name": 8,
-        "GDP per capita": 0.948
+        "GDP per capita": 0.948,
+        "Number of terrorist attacks": 0,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -29500,7 +29716,9 @@
         "Country GDP": 18940,
         "Estimated population": 21669278,
         "Length of the name": 10,
-        "GDP per capita": 0.204
+        "GDP per capita": 0.204,
+        "Number of terrorist attacks": 363,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -29833,7 +30051,9 @@
         "Country GDP": 6308,
         "Estimated population": 3129486,
         "Length of the name": 10,
-        "GDP per capita": 0.57
+        "GDP per capita": 0.57,
+        "Number of terrorist attacks": 18,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -30014,7 +30234,9 @@
         "Country GDP": 11810,
         "Estimated population": 14268711,
         "Length of the name": 6,
-        "GDP per capita": 0.191
+        "GDP per capita": 0.191,
+        "Number of terrorist attacks": 5,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -30151,7 +30373,9 @@
         "Country GDP": 384300,
         "Estimated population": 25715819,
         "Length of the name": 8,
-        "GDP per capita": 1.221
+        "GDP per capita": 1.221,
+        "Number of terrorist attacks": 99,
+        "Number of university in the top 1000 worldwide": 6
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -30430,7 +30654,9 @@
         "Country GDP": 13250,
         "Estimated population": 2108665,
         "Length of the name": 7,
-        "GDP per capita": 0.879
+        "GDP per capita": 0.879,
+        "Number of terrorist attacks": 151,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -30630,7 +30856,9 @@
         "subregion": "Melanesia",
         "Country GDP": 3158,
         "Estimated population": 227436,
-        "Length of the name": 13
+        "Length of the name": 13,
+        "Number of terrorist attacks": 31,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -30707,7 +30935,9 @@
         "Country GDP": 10040,
         "Estimated population": 15306252,
         "Length of the name": 5,
-        "GDP per capita": 0.138
+        "GDP per capita": 0.138,
+        "Number of terrorist attacks": 154,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -30964,7 +31194,9 @@
         "Country GDP": 335400,
         "Estimated population": 149229090,
         "Length of the name": 7,
-        "GDP per capita": 0.696
+        "GDP per capita": 0.696,
+        "Number of terrorist attacks": 3907,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -31221,7 +31453,9 @@
         "Country GDP": 16790,
         "Estimated population": 5891199,
         "Length of the name": 9,
-        "GDP per capita": 0.694
+        "GDP per capita": 0.694,
+        "Number of terrorist attacks": 1970,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -31454,7 +31688,9 @@
         "Country GDP": 672000,
         "Estimated population": 16715999,
         "Length of the name": 11,
-        "GDP per capita": 1.396
+        "GDP per capita": 1.396,
+        "Number of terrorist attacks": 130,
+        "Number of university in the top 1000 worldwide": 29
       },
       "geometry": {
         "type": "Polygon",
@@ -31535,7 +31771,9 @@
         "Country GDP": 276400,
         "Estimated population": 4676305,
         "Length of the name": 6,
-        "GDP per capita": 1.488
+        "GDP per capita": 1.488,
+        "Number of terrorist attacks": 19,
+        "Number of university in the top 1000 worldwide": 12
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -31926,7 +32164,9 @@
         "Country GDP": 31080,
         "Estimated population": 28563377,
         "Length of the name": 5,
-        "GDP per capita": 0.446
+        "GDP per capita": 0.446,
+        "Number of terrorist attacks": 1215,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -32043,7 +32283,9 @@
         "Country GDP": 116700,
         "Estimated population": 4213418,
         "Length of the name": 11,
-        "GDP per capita": 1.303
+        "GDP per capita": 1.303,
+        "Number of terrorist attacks": 20,
+        "Number of university in the top 1000 worldwide": 12
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -32337,7 +32579,9 @@
         "subregion": "Western Asia",
         "Country GDP": 66980,
         "Estimated population": 3418085,
-        "Length of the name": 4
+        "Length of the name": 4,
+        "Number of terrorist attacks": 0,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -32556,7 +32800,9 @@
         "Country GDP": 427300,
         "Estimated population": 176242949,
         "Length of the name": 8,
-        "GDP per capita": 0.677
+        "GDP per capita": 0.677,
+        "Number of terrorist attacks": 14368,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -32845,7 +33091,9 @@
         "Country GDP": 38830,
         "Estimated population": 3360474,
         "Length of the name": 6,
-        "GDP per capita": 1.149
+        "GDP per capita": 1.149,
+        "Number of terrorist attacks": 127,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -33078,7 +33326,9 @@
         "Country GDP": 247300,
         "Estimated population": 29546963,
         "Length of the name": 4,
-        "GDP per capita": 0.96
+        "GDP per capita": 0.96,
+        "Number of terrorist attacks": 6096,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -33407,7 +33657,9 @@
         "Country GDP": 317500,
         "Estimated population": 97976603,
         "Length of the name": 11,
-        "GDP per capita": 0.807
+        "GDP per capita": 0.807,
+        "Number of terrorist attacks": 6908,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -33897,7 +34149,9 @@
         "subregion": "Melanesia",
         "Country GDP": 13210,
         "Estimated population": 6057263,
-        "Length of the name": 16
+        "Length of the name": 16,
+        "Number of terrorist attacks": 89,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -34260,7 +34514,9 @@
         "Country GDP": 667900,
         "Estimated population": 38482919,
         "Length of the name": 6,
-        "GDP per capita": 1.206
+        "GDP per capita": 1.206,
+        "Number of terrorist attacks": 39,
+        "Number of university in the top 1000 worldwide": 18
       },
       "geometry": {
         "type": "Polygon",
@@ -34464,7 +34720,9 @@
         "subregion": "Caribbean",
         "Country GDP": 70230,
         "Estimated population": 3971020,
-        "Length of the name": 11
+        "Length of the name": 11,
+        "Number of terrorist attacks": 0,
+        "Number of university in the top 1000 worldwide": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -34524,7 +34782,9 @@
         "subregion": "Eastern Asia",
         "Country GDP": 40000,
         "Estimated population": 22665345,
-        "Length of the name": 15
+        "Length of the name": 15,
+        "Number of terrorist attacks": 0,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -34721,7 +34981,9 @@
         "Country GDP": 208627,
         "Estimated population": 10707924,
         "Length of the name": 8,
-        "GDP per capita": 1.221
+        "GDP per capita": 1.221,
+        "Number of terrorist attacks": 140,
+        "Number of university in the top 1000 worldwide": 14
       },
       "geometry": {
         "type": "Polygon",
@@ -34878,7 +35140,9 @@
         "Country GDP": 28890,
         "Estimated population": 6995655,
         "Length of the name": 8,
-        "GDP per capita": 0.855
+        "GDP per capita": 0.855,
+        "Number of terrorist attacks": 114,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -35034,7 +35298,9 @@
         "subregion": "Western Asia",
         "Country GDP": 11950.77,
         "Estimated population": 4119083,
-        "Length of the name": 9
+        "Length of the name": 9,
+        "Number of terrorist attacks": 0,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -35095,7 +35361,9 @@
         "Country GDP": 91330,
         "Estimated population": 833285,
         "Length of the name": 5,
-        "GDP per capita": 1.684
+        "GDP per capita": 1.684,
+        "Number of terrorist attacks": 7,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -35156,7 +35424,9 @@
         "Country GDP": 271400,
         "Estimated population": 22215421,
         "Length of the name": 7,
-        "GDP per capita": 1.162
+        "GDP per capita": 1.162,
+        "Number of terrorist attacks": 6,
+        "Number of university in the top 1000 worldwide": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -35357,7 +35627,9 @@
         "Country GDP": 2266000,
         "Estimated population": 140041247,
         "Length of the name": 6,
-        "GDP per capita": 1.183
+        "GDP per capita": 1.183,
+        "Number of terrorist attacks": 2194,
+        "Number of university in the top 1000 worldwide": 9
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -37824,7 +38096,9 @@
         "Country GDP": 9706,
         "Estimated population": 10473282,
         "Length of the name": 6,
-        "GDP per capita": 0.359
+        "GDP per capita": 0.359,
+        "Number of terrorist attacks": 159,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -37900,7 +38174,9 @@
         "subregion": "Northern Africa",
         "Country GDP": -99,
         "Estimated population": -99,
-        "Length of the name": 9
+        "Length of the name": 9,
+        "Number of terrorist attacks": 0,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -38037,7 +38313,9 @@
         "Country GDP": 576500,
         "Estimated population": 28686633,
         "Length of the name": 12,
-        "GDP per capita": 1.403
+        "GDP per capita": 1.403,
+        "Number of terrorist attacks": 371,
+        "Number of university in the top 1000 worldwide": 8
       },
       "geometry": {
         "type": "Polygon",
@@ -38365,7 +38643,9 @@
         "subregion": "Northern Africa",
         "Country GDP": 88080,
         "Estimated population": 25946220,
-        "Length of the name": 5
+        "Length of the name": 5,
+        "Number of terrorist attacks": 967,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -38705,7 +38985,9 @@
         "subregion": "Eastern Africa",
         "Country GDP": 13227,
         "Estimated population": 10625176,
-        "Length of the name": 8
+        "Length of the name": 8,
+        "Number of terrorist attacks": 0,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -38982,7 +39264,9 @@
         "Country GDP": 21980,
         "Estimated population": 13711597,
         "Length of the name": 7,
-        "GDP per capita": 0.45
+        "GDP per capita": 0.45,
+        "Number of terrorist attacks": 118,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -39182,7 +39466,9 @@
         "subregion": "Melanesia",
         "Country GDP": 1078,
         "Estimated population": 595613,
-        "Length of the name": 11
+        "Length of the name": 11,
+        "Number of terrorist attacks": 0,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -39373,7 +39659,9 @@
         "Country GDP": 4285,
         "Estimated population": 6440053,
         "Length of the name": 12,
-        "GDP per capita": 0.268
+        "GDP per capita": 0.268,
+        "Number of terrorist attacks": 101,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -39486,7 +39774,9 @@
         "Country GDP": 43630,
         "Estimated population": 7185218,
         "Length of the name": 11,
-        "GDP per capita": 0.794
+        "GDP per capita": 0.794,
+        "Number of terrorist attacks": 5320,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -39590,7 +39880,9 @@
         "subregion": "Eastern Africa",
         "Country GDP": 12250,
         "Estimated population": 3500000,
-        "Length of the name": 10
+        "Length of the name": 10,
+        "Number of terrorist attacks": 0,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -39711,7 +40003,9 @@
         "Country GDP": 5524,
         "Estimated population": 9832017,
         "Length of the name": 7,
-        "GDP per capita": 0.0
+        "GDP per capita": 0.0,
+        "Number of terrorist attacks": 4142,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -39880,7 +40174,9 @@
         "Country GDP": 80340,
         "Estimated population": 7379339,
         "Length of the name": 6,
-        "GDP per capita": 1.004
+        "GDP per capita": 1.004,
+        "Number of terrorist attacks": 12,
+        "Number of university in the top 1000 worldwide": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -40088,7 +40384,9 @@
         "subregion": "South America",
         "Country GDP": 4254,
         "Estimated population": 481267,
-        "Length of the name": 8
+        "Length of the name": 8,
+        "Number of terrorist attacks": 66,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -40217,7 +40515,9 @@
         "Country GDP": 119500,
         "Estimated population": 5463046,
         "Length of the name": 8,
-        "GDP per capita": 1.246
+        "GDP per capita": 1.246,
+        "Number of terrorist attacks": 0,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -40374,7 +40674,9 @@
         "Country GDP": 59340,
         "Estimated population": 2005692,
         "Length of the name": 8,
-        "GDP per capita": 1.258
+        "GDP per capita": 1.258,
+        "Number of terrorist attacks": 6,
+        "Number of university in the top 1000 worldwide": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -40471,7 +40773,9 @@
         "Country GDP": 344300,
         "Estimated population": 9059651,
         "Length of the name": 6,
-        "GDP per capita": 1.387
+        "GDP per capita": 1.387,
+        "Number of terrorist attacks": 132,
+        "Number of university in the top 1000 worldwide": 24
       },
       "geometry": {
         "type": "Polygon",
@@ -40656,7 +40960,9 @@
         "Country GDP": 5702,
         "Estimated population": 1123913,
         "Length of the name": 9,
-        "GDP per capita": 0.811
+        "GDP per capita": 0.811,
+        "Number of terrorist attacks": 16,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -40725,7 +41031,9 @@
         "Country GDP": 98830,
         "Estimated population": 20178485,
         "Length of the name": 5,
-        "GDP per capita": 0.619
+        "GDP per capita": 0.619,
+        "Number of terrorist attacks": 2201,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -40858,7 +41166,9 @@
         "Country GDP": 15860,
         "Estimated population": 10329208,
         "Length of the name": 4,
-        "GDP per capita": 0.35
+        "GDP per capita": 0.35,
+        "Number of terrorist attacks": 91,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -41115,7 +41425,9 @@
         "Country GDP": 5118,
         "Estimated population": 6019877,
         "Length of the name": 4,
-        "GDP per capita": 0.275
+        "GDP per capita": 0.275,
+        "Number of terrorist attacks": 48,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -41216,7 +41528,9 @@
         "Country GDP": 547400,
         "Estimated population": 65905410,
         "Length of the name": 8,
-        "GDP per capita": 1.05
+        "GDP per capita": 1.05,
+        "Number of terrorist attacks": 3849,
+        "Number of university in the top 1000 worldwide": 6
       },
       "geometry": {
         "type": "Polygon",
@@ -41497,7 +41811,9 @@
         "Country GDP": 13160,
         "Estimated population": 7349145,
         "Length of the name": 10,
-        "GDP per capita": 0.493
+        "GDP per capita": 0.493,
+        "Number of terrorist attacks": 188,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -41686,7 +42002,9 @@
         "Country GDP": 29780,
         "Estimated population": 4884887,
         "Length of the name": 12,
-        "GDP per capita": 1.052
+        "GDP per capita": 1.052,
+        "Number of terrorist attacks": 2,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -41926,7 +42244,9 @@
         "subregion": "South-Eastern Asia",
         "Country GDP": 2520,
         "Estimated population": 1131612,
-        "Length of the name": 11
+        "Length of the name": 11,
+        "Number of terrorist attacks": 0,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -41994,7 +42314,9 @@
         "subregion": "Caribbean",
         "Country GDP": 29010,
         "Estimated population": 1310000,
-        "Length of the name": 19
+        "Length of the name": 19,
+        "Number of terrorist attacks": 22,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -42051,7 +42373,9 @@
         "Country GDP": 81710,
         "Estimated population": 10486339,
         "Length of the name": 7,
-        "GDP per capita": 0.921
+        "GDP per capita": 0.921,
+        "Number of terrorist attacks": 109,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -42200,7 +42524,9 @@
         "Country GDP": 902700,
         "Estimated population": 76805524,
         "Length of the name": 6,
-        "GDP per capita": 1.183
+        "GDP per capita": 1.183,
+        "Number of terrorist attacks": 4292,
+        "Number of university in the top 1000 worldwide": 20
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -42499,7 +42825,9 @@
         "Country GDP": 712000,
         "Estimated population": 22974347,
         "Length of the name": 6,
-        "GDP per capita": 1.368
+        "GDP per capita": 1.368,
+        "Number of terrorist attacks": 50,
+        "Number of university in the top 1000 worldwide": 46
       },
       "geometry": {
         "type": "Polygon",
@@ -42560,7 +42888,9 @@
         "Country GDP": 54250,
         "Estimated population": 41048532,
         "Length of the name": 8,
-        "GDP per capita": 0.476
+        "GDP per capita": 0.476,
+        "Number of terrorist attacks": 59,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -42781,7 +43111,9 @@
         "Country GDP": 39380,
         "Estimated population": 32369558,
         "Length of the name": 6,
-        "GDP per capita": 0.332
+        "GDP per capita": 0.332,
+        "Number of terrorist attacks": 394,
+        "Number of university in the top 1000 worldwide": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -42914,7 +43246,9 @@
         "Country GDP": 339800,
         "Estimated population": 45700395,
         "Length of the name": 7,
-        "GDP per capita": 0.82
+        "GDP per capita": 0.82,
+        "Number of terrorist attacks": 1709,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -43331,7 +43665,9 @@
         "Country GDP": 43160,
         "Estimated population": 3494382,
         "Length of the name": 7,
-        "GDP per capita": 1.124
+        "GDP per capita": 1.124,
+        "Number of terrorist attacks": 82,
+        "Number of university in the top 1000 worldwide": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -43440,7 +43776,9 @@
         "Country GDP": 15094000,
         "Estimated population": 313973000,
         "Length of the name": 13,
-        "GDP per capita": 1.433
+        "GDP per capita": 1.433,
+        "Number of terrorist attacks": 2836,
+        "Number of university in the top 1000 worldwide": 573
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -45279,7 +45617,9 @@
         "Country GDP": 71670,
         "Estimated population": 27606007,
         "Length of the name": 10,
-        "GDP per capita": 0.745
+        "GDP per capita": 0.745,
+        "Number of terrorist attacks": 21,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -45520,7 +45860,9 @@
         "Country GDP": 357400,
         "Estimated population": 26814843,
         "Length of the name": 9,
-        "GDP per capita": 0.96
+        "GDP per capita": 0.96,
+        "Number of terrorist attacks": 293,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -45913,7 +46255,9 @@
         "Country GDP": 241700,
         "Estimated population": 86967524,
         "Length of the name": 7,
-        "GDP per capita": 0.741
+        "GDP per capita": 0.741,
+        "Number of terrorist attacks": 12,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -46113,7 +46457,9 @@
         "subregion": "Melanesia",
         "Country GDP": 988.5,
         "Estimated population": 218519,
-        "Length of the name": 7
+        "Length of the name": 7,
+        "Number of terrorist attacks": 2,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -46192,7 +46538,9 @@
         "Country GDP": 55280,
         "Estimated population": 23822783,
         "Length of the name": 5,
-        "GDP per capita": 0.287
+        "GDP per capita": 0.287,
+        "Number of terrorist attacks": 3347,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -46393,7 +46741,9 @@
         "Country GDP": 491000,
         "Estimated population": 49052489,
         "Length of the name": 12,
-        "GDP per capita": 0.96
+        "GDP per capita": 0.96,
+        "Number of terrorist attacks": 2016,
+        "Number of university in the top 1000 worldwide": 10
       },
       "geometry": {
         "type": "Polygon",
@@ -46796,7 +47146,9 @@
         "Country GDP": 17500,
         "Estimated population": 11862740,
         "Length of the name": 6,
-        "GDP per capita": 0.578
+        "GDP per capita": 0.578,
+        "Number of terrorist attacks": 62,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -47065,7 +47417,9 @@
         "Country GDP": 9323,
         "Estimated population": 12619600,
         "Length of the name": 8,
-        "GDP per capita": 0.366
+        "GDP per capita": 0.366,
+        "Number of terrorist attacks": 101,
+        "Number of university in the top 1000 worldwide": 0
       },
       "geometry": {
         "type": "Polygon",
