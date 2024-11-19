@@ -18,7 +18,11 @@
         "Length of the name": 11,
         "GDP per capita": 0.35,
         "Number of terrorist attacks": 12731,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "8,672",
+        "Country birth rate": 32.49,
+        "Country armed force size": "323,000",
+        "Country agricultural land": "58.10%"
       },
       "geometry": {
         "type": "Polygon",
@@ -320,7 +324,11 @@
         "Estimated population": 12799293,
         "Length of the name": 6,
         "Number of terrorist attacks": 499,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "34,693",
+        "Country birth rate": 40.73,
+        "Country armed force size": "117,000",
+        "Country agricultural land": "47.50%"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -653,7 +661,11 @@
         "Length of the name": 7,
         "GDP per capita": 0.947,
         "Number of terrorist attacks": 80,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "4,536",
+        "Country birth rate": 11.78,
+        "Country armed force size": "9,000",
+        "Country agricultural land": "43.10%"
       },
       "geometry": {
         "type": "Polygon",
@@ -768,7 +780,11 @@
         "Length of the name": 20,
         "GDP per capita": 1.503,
         "Number of terrorist attacks": 22,
-        "Number of university in the top 1000 worldwide": 2
+        "Number of university in the top 1000 worldwide": 2,
+        "Co2-Emissions": "206,324",
+        "Country birth rate": 10.33,
+        "Country armed force size": "63,000",
+        "Country agricultural land": "5.50%"
       },
       "geometry": {
         "type": "Polygon",
@@ -883,7 +899,11 @@
         "Length of the name": 9,
         "GDP per capita": 1.092,
         "Number of terrorist attacks": 815,
-        "Number of university in the top 1000 worldwide": 7
+        "Number of university in the top 1000 worldwide": 7,
+        "Co2-Emissions": "201,348",
+        "Country birth rate": 17.02,
+        "Country armed force size": "105,000",
+        "Country agricultural land": "54.30%"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1400,7 +1420,11 @@
         "Length of the name": 7,
         "GDP per capita": 0.85,
         "Number of terrorist attacks": 24,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "5,156",
+        "Country birth rate": 13.99,
+        "Country armed force size": "49,000",
+        "Country agricultural land": "58.90%"
       },
       "geometry": {
         "type": "Polygon",
@@ -4269,7 +4293,11 @@
         "Length of the name": 9,
         "GDP per capita": 1.372,
         "Number of terrorist attacks": 114,
-        "Number of university in the top 1000 worldwide": 58
+        "Number of university in the top 1000 worldwide": 58,
+        "Co2-Emissions": "375,908",
+        "Country birth rate": 12.6,
+        "Country armed force size": "58,000",
+        "Country agricultural land": "48.20%"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5266,7 +5294,11 @@
         "Length of the name": 7,
         "GDP per capita": 1.376,
         "Number of terrorist attacks": 115,
-        "Number of university in the top 1000 worldwide": 24
+        "Number of university in the top 1000 worldwide": 24,
+        "Co2-Emissions": "61,448",
+        "Country birth rate": 9.7,
+        "Country armed force size": "21,000",
+        "Country agricultural land": "32.40%"
       },
       "geometry": {
         "type": "Polygon",
@@ -5441,7 +5473,11 @@
         "Length of the name": 10,
         "GDP per capita": 1.043,
         "Number of terrorist attacks": 49,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "37,620",
+        "Country birth rate": 14.0,
+        "Country armed force size": "82,000",
+        "Country agricultural land": "57.70%"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5650,7 +5686,11 @@
         "Length of the name": 7,
         "GDP per capita": 0.046,
         "Number of terrorist attacks": 613,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "495",
+        "Country birth rate": 39.01,
+        "Country armed force size": "31,000",
+        "Country agricultural land": "79.20%"
       },
       "geometry": {
         "type": "Polygon",
@@ -5729,7 +5769,11 @@
         "Length of the name": 7,
         "GDP per capita": 1.356,
         "Number of terrorist attacks": 154,
-        "Number of university in the top 1000 worldwide": 20
+        "Number of university in the top 1000 worldwide": 20,
+        "Co2-Emissions": "96,889",
+        "Country birth rate": 10.3,
+        "Country armed force size": "32,000",
+        "Country agricultural land": "44.60%"
       },
       "geometry": {
         "type": "Polygon",
@@ -5816,7 +5860,11 @@
         "Length of the name": 5,
         "GDP per capita": 0.393,
         "Number of terrorist attacks": 8,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "6,476",
+        "Country birth rate": 36.22,
+        "Country armed force size": "12,000",
+        "Country agricultural land": "33.30%"
       },
       "geometry": {
         "type": "Polygon",
@@ -5943,7 +5991,11 @@
         "Length of the name": 12,
         "GDP per capita": 0.331,
         "Number of terrorist attacks": 52,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "3,418",
+        "Country birth rate": 37.93,
+        "Country armed force size": "11,000",
+        "Country agricultural land": "44.20%"
       },
       "geometry": {
         "type": "Polygon",
@@ -6126,7 +6178,11 @@
         "Length of the name": 10,
         "GDP per capita": 0.562,
         "Number of terrorist attacks": 1648,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "84,246",
+        "Country birth rate": 18.18,
+        "Country armed force size": "221,000",
+        "Country agricultural land": "70.60%"
       },
       "geometry": {
         "type": "Polygon",
@@ -6297,7 +6353,11 @@
         "Length of the name": 8,
         "GDP per capita": 1.092,
         "Number of terrorist attacks": 52,
-        "Number of university in the top 1000 worldwide": 2
+        "Number of university in the top 1000 worldwide": 2,
+        "Co2-Emissions": "41,708",
+        "Country birth rate": 8.9,
+        "Country armed force size": "31,000",
+        "Country agricultural land": "46.30%"
       },
       "geometry": {
         "type": "Polygon",
@@ -6670,7 +6730,11 @@
         "Length of the name": 7,
         "GDP per capita": 1.067,
         "Number of terrorist attacks": 13,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "58,280",
+        "Country birth rate": 9.9,
+        "Country armed force size": "155,000",
+        "Country agricultural land": "42.00%"
       },
       "geometry": {
         "type": "Polygon",
@@ -6872,7 +6936,11 @@
         "Estimated population": 307899,
         "Length of the name": 6,
         "Number of terrorist attacks": 8,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "568",
+        "Country birth rate": 20.79,
+        "Country armed force size": "2,000",
+        "Country agricultural land": "7.00%"
       },
       "geometry": {
         "type": "Polygon",
@@ -6979,7 +7047,11 @@
         "Length of the name": 7,
         "GDP per capita": 0.776,
         "Number of terrorist attacks": 314,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "21,606",
+        "Country birth rate": 21.75,
+        "Country armed force size": "71,000",
+        "Country agricultural land": "34.80%"
       },
       "geometry": {
         "type": "Polygon",
@@ -7246,7 +7318,11 @@
         "Length of the name": 6,
         "GDP per capita": 1.004,
         "Number of terrorist attacks": 273,
-        "Number of university in the top 1000 worldwide": 36
+        "Number of university in the top 1000 worldwide": 36,
+        "Co2-Emissions": "462,299",
+        "Country birth rate": 13.92,
+        "Country armed force size": "730,000",
+        "Country agricultural land": "33.90%"
       },
       "geometry": {
         "type": "Polygon",
@@ -8084,7 +8160,11 @@
         "Estimated population": 388190,
         "Length of the name": 6,
         "Number of terrorist attacks": 6,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "7,664",
+        "Country birth rate": 14.9,
+        "Country armed force size": "8,000",
+        "Country agricultural land": "2.70%"
       },
       "geometry": {
         "type": "Polygon",
@@ -8143,7 +8223,11 @@
         "Length of the name": 6,
         "GDP per capita": 0.813,
         "Number of terrorist attacks": 6,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "1,261",
+        "Country birth rate": 17.26,
+        "Country armed force size": "6,000",
+        "Country agricultural land": "13.60%"
       },
       "geometry": {
         "type": "Polygon",
@@ -8222,7 +8306,11 @@
         "Length of the name": 8,
         "GDP per capita": 1.041,
         "Number of terrorist attacks": 10,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "6,340",
+        "Country birth rate": 24.82,
+        "Country armed force size": "9,000",
+        "Country agricultural land": "45.60%"
       },
       "geometry": {
         "type": "Polygon",
@@ -8683,7 +8771,11 @@
         "Length of the name": 6,
         "GDP per capita": 1.365,
         "Number of terrorist attacks": 96,
-        "Number of university in the top 1000 worldwide": 72
+        "Number of university in the top 1000 worldwide": 72,
+        "Co2-Emissions": "544,894",
+        "Country birth rate": 10.1,
+        "Country armed force size": "72,000",
+        "Country agricultural land": "6.90%"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -11996,7 +12088,11 @@
         "Length of the name": 11,
         "GDP per capita": 1.452,
         "Number of terrorist attacks": 111,
-        "Number of university in the top 1000 worldwide": 26
+        "Number of university in the top 1000 worldwide": 26,
+        "Co2-Emissions": "34,477",
+        "Country birth rate": 10.0,
+        "Country armed force size": "21,000",
+        "Country agricultural land": "38.40%"
       },
       "geometry": {
         "type": "Polygon",
@@ -12119,7 +12215,11 @@
         "Length of the name": 5,
         "GDP per capita": 1.159,
         "Number of terrorist attacks": 2365,
-        "Number of university in the top 1000 worldwide": 8
+        "Number of university in the top 1000 worldwide": 8,
+        "Co2-Emissions": "85,822",
+        "Country birth rate": 12.43,
+        "Country armed force size": "122,000",
+        "Country agricultural land": "21.20%"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12608,7 +12708,11 @@
         "Length of the name": 5,
         "GDP per capita": 1.029,
         "Number of terrorist attacks": 252,
-        "Number of university in the top 1000 worldwide": 167
+        "Number of university in the top 1000 worldwide": 167,
+        "Co2-Emissions": "9,893,038",
+        "Country birth rate": 10.9,
+        "Country armed force size": "2,695,000",
+        "Country agricultural land": "56.20%"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13811,7 +13915,11 @@
         "Length of the name": 8,
         "GDP per capita": 0.549,
         "Number of terrorist attacks": 332,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "8,291",
+        "Country birth rate": 35.39,
+        "Country armed force size": "24,000",
+        "Country agricultural land": "20.60%"
       },
       "geometry": {
         "type": "Polygon",
@@ -14818,7 +14926,11 @@
         "Length of the name": 8,
         "GDP per capita": 0.985,
         "Number of terrorist attacks": 8306,
-        "Number of university in the top 1000 worldwide": 4
+        "Number of university in the top 1000 worldwide": 4,
+        "Co2-Emissions": "97,814",
+        "Country birth rate": 14.88,
+        "Country armed force size": "481,000",
+        "Country agricultural land": "40.30%"
       },
       "geometry": {
         "type": "Polygon",
@@ -15245,7 +15357,11 @@
         "Length of the name": 10,
         "GDP per capita": 1.034,
         "Number of terrorist attacks": 67,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "8,023",
+        "Country birth rate": 13.97,
+        "Country armed force size": "10,000",
+        "Country agricultural land": "34.50%"
       },
       "geometry": {
         "type": "Polygon",
@@ -15415,7 +15531,11 @@
         "Estimated population": 11451652,
         "Length of the name": 4,
         "Number of terrorist attacks": 30,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "28,284",
+        "Country birth rate": 10.17,
+        "Country armed force size": "76,000",
+        "Country agricultural land": "59.90%"
       },
       "geometry": {
         "type": "Polygon",
@@ -15700,7 +15820,11 @@
         "Length of the name": 6,
         "GDP per capita": 1.263,
         "Number of terrorist attacks": 132,
-        "Number of university in the top 1000 worldwide": 2
+        "Number of university in the top 1000 worldwide": 2,
+        "Co2-Emissions": "6,626",
+        "Country birth rate": 10.46,
+        "Country armed force size": "16,000",
+        "Country agricultural land": "12.20%"
       },
       "geometry": {
         "type": "Polygon",
@@ -15953,7 +16077,11 @@
         "Length of the name": 7,
         "GDP per capita": 1.373,
         "Number of terrorist attacks": 735,
-        "Number of university in the top 1000 worldwide": 115
+        "Number of university in the top 1000 worldwide": 115,
+        "Co2-Emissions": "727,973",
+        "Country birth rate": 9.5,
+        "Country armed force size": "180,000",
+        "Country agricultural land": "47.70%"
       },
       "geometry": {
         "type": "Polygon",
@@ -16211,7 +16339,11 @@
         "Estimated population": 516055,
         "Length of the name": 8,
         "Number of terrorist attacks": 22,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "620",
+        "Country birth rate": 21.47,
+        "Country armed force size": "13,000",
+        "Country agricultural land": "73.40%"
       },
       "geometry": {
         "type": "Polygon",
@@ -16298,7 +16430,11 @@
         "Length of the name": 7,
         "GDP per capita": 1.383,
         "Number of terrorist attacks": 41,
-        "Number of university in the top 1000 worldwide": 12
+        "Number of university in the top 1000 worldwide": 12,
+        "Co2-Emissions": "31,786",
+        "Country birth rate": 10.6,
+        "Country armed force size": "15,000",
+        "Country agricultural land": "62.00%"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16557,7 +16693,11 @@
         "Length of the name": 7,
         "GDP per capita": 1.002,
         "Number of terrorist attacks": 2743,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "150,006",
+        "Country birth rate": 24.28,
+        "Country armed force size": "317,000",
+        "Country agricultural land": "17.40%"
       },
       "geometry": {
         "type": "Polygon",
@@ -16832,7 +16972,11 @@
         "Length of the name": 7,
         "GDP per capita": 0.912,
         "Number of terrorist attacks": 220,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "41,155",
+        "Country birth rate": 19.72,
+        "Country armed force size": "41,000",
+        "Country agricultural land": "22.20%"
       },
       "geometry": {
         "type": "Polygon",
@@ -16991,7 +17135,11 @@
         "Length of the name": 5,
         "GDP per capita": 0.913,
         "Number of terrorist attacks": 2479,
-        "Number of university in the top 1000 worldwide": 8
+        "Number of university in the top 1000 worldwide": 8,
+        "Co2-Emissions": "238,560",
+        "Country birth rate": 26.38,
+        "Country armed force size": "836,000",
+        "Country agricultural land": "3.80%"
       },
       "geometry": {
         "type": "Polygon",
@@ -17185,7 +17333,11 @@
         "Estimated population": 5647168,
         "Length of the name": 7,
         "Number of terrorist attacks": 10,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "711",
+        "Country birth rate": 30.3,
+        "Country armed force size": "202,000",
+        "Country agricultural land": "75.20%"
       },
       "geometry": {
         "type": "Polygon",
@@ -17324,7 +17476,11 @@
         "Length of the name": 5,
         "GDP per capita": 1.286,
         "Number of terrorist attacks": 3249,
-        "Number of university in the top 1000 worldwide": 81
+        "Number of university in the top 1000 worldwide": 81,
+        "Co2-Emissions": "244,002",
+        "Country birth rate": 7.9,
+        "Country armed force size": "196,000",
+        "Country agricultural land": "52.60%"
       },
       "geometry": {
         "type": "Polygon",
@@ -17555,7 +17711,11 @@
         "Length of the name": 7,
         "GDP per capita": 1.237,
         "Number of terrorist attacks": 16,
-        "Number of university in the top 1000 worldwide": 2
+        "Number of university in the top 1000 worldwide": 2,
+        "Co2-Emissions": "16,590",
+        "Country birth rate": 10.9,
+        "Country armed force size": "6,000",
+        "Country agricultural land": "23.10%"
       },
       "geometry": {
         "type": "Polygon",
@@ -17650,7 +17810,11 @@
         "Length of the name": 8,
         "GDP per capita": 0.336,
         "Number of terrorist attacks": 190,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "14,870",
+        "Country birth rate": 32.34,
+        "Country armed force size": "138,000",
+        "Country agricultural land": "36.30%"
       },
       "geometry": {
         "type": "Polygon",
@@ -17913,7 +18077,11 @@
         "Length of the name": 7,
         "GDP per capita": 1.34,
         "Number of terrorist attacks": 20,
-        "Number of university in the top 1000 worldwide": 20
+        "Number of university in the top 1000 worldwide": 20,
+        "Co2-Emissions": "45,871",
+        "Country birth rate": 8.6,
+        "Country armed force size": "25,000",
+        "Country agricultural land": "7.50%"
       },
       "geometry": {
         "type": "Polygon",
@@ -18091,7 +18259,11 @@
         "Estimated population": 944720,
         "Length of the name": 4,
         "Number of terrorist attacks": 17,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "2,046",
+        "Country birth rate": 21.28,
+        "Country armed force size": "4,000",
+        "Country agricultural land": "23.30%"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18282,7 +18454,11 @@
         "Length of the name": 6,
         "GDP per capita": 1.324,
         "Number of terrorist attacks": 2693,
-        "Number of university in the top 1000 worldwide": 109
+        "Number of university in the top 1000 worldwide": 109,
+        "Co2-Emissions": "303,276",
+        "Country birth rate": 11.3,
+        "Country armed force size": "307,000",
+        "Country agricultural land": "52.40%"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18615,7 +18791,11 @@
         "Length of the name": 5,
         "GDP per capita": 1.057,
         "Number of terrorist attacks": 8,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "5,321",
+        "Country birth rate": 31.61,
+        "Country armed force size": "7,000",
+        "Country agricultural land": "20.00%"
       },
       "geometry": {
         "type": "Polygon",
@@ -18766,7 +18946,11 @@
         "Length of the name": 14,
         "GDP per capita": 1.333,
         "Number of terrorist attacks": 5235,
-        "Number of university in the top 1000 worldwide": 144
+        "Number of university in the top 1000 worldwide": 144,
+        "Co2-Emissions": "379,025",
+        "Country birth rate": 11.0,
+        "Country armed force size": "148,000",
+        "Country agricultural land": "71.70%"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19023,7 +19207,11 @@
         "Length of the name": 7,
         "GDP per capita": 0.886,
         "Number of terrorist attacks": 217,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "10,128",
+        "Country birth rate": 13.47,
+        "Country armed force size": "26,000",
+        "Country agricultural land": "34.50%"
       },
       "geometry": {
         "type": "Polygon",
@@ -19146,7 +19334,11 @@
         "Length of the name": 5,
         "GDP per capita": 0.611,
         "Number of terrorist attacks": 19,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "16,670",
+        "Country birth rate": 29.41,
+        "Country armed force size": "16,000",
+        "Country agricultural land": "69.00%"
       },
       "geometry": {
         "type": "Polygon",
@@ -19273,7 +19465,11 @@
         "Length of the name": 6,
         "GDP per capita": 0.38,
         "Number of terrorist attacks": 25,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "2,996",
+        "Country birth rate": 36.36,
+        "Country armed force size": "13,000",
+        "Country agricultural land": "59.00%"
       },
       "geometry": {
         "type": "Polygon",
@@ -19670,7 +19866,11 @@
         "Estimated population": 1533964,
         "Length of the name": 13,
         "Number of terrorist attacks": 9,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "293",
+        "Country birth rate": 35.13,
+        "Country armed force size": "4,000",
+        "Country agricultural land": "58.00%"
       },
       "geometry": {
         "type": "Polygon",
@@ -19827,7 +20027,11 @@
         "Length of the name": 6,
         "GDP per capita": 1.181,
         "Number of terrorist attacks": 1275,
-        "Number of university in the top 1000 worldwide": 14
+        "Number of university in the top 1000 worldwide": 14,
+        "Co2-Emissions": "62,434",
+        "Country birth rate": 8.1,
+        "Country armed force size": "146,000",
+        "Country agricultural land": "47.60%"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -20630,7 +20834,11 @@
         "Length of the name": 9,
         "GDP per capita": 0.8,
         "Number of terrorist attacks": 2050,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "16,777",
+        "Country birth rate": 24.56,
+        "Country armed force size": "43,000",
+        "Country agricultural land": "36.00%"
       },
       "geometry": {
         "type": "Polygon",
@@ -20796,7 +21004,11 @@
         "Estimated population": 772298,
         "Length of the name": 6,
         "Number of terrorist attacks": 26,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "2,384",
+        "Country birth rate": 19.97,
+        "Country armed force size": "3,000",
+        "Country agricultural land": "8.60%"
       },
       "geometry": {
         "type": "Polygon",
@@ -20983,7 +21195,11 @@
         "Length of the name": 8,
         "GDP per capita": 0.642,
         "Number of terrorist attacks": 323,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "9,813",
+        "Country birth rate": 21.6,
+        "Country armed force size": "23,000",
+        "Country agricultural land": "28.90%"
       },
       "geometry": {
         "type": "Polygon",
@@ -21238,7 +21454,11 @@
         "Length of the name": 7,
         "GDP per capita": 1.155,
         "Number of terrorist attacks": 57,
-        "Number of university in the top 1000 worldwide": 2
+        "Number of university in the top 1000 worldwide": 2,
+        "Co2-Emissions": "17,488",
+        "Country birth rate": 9.0,
+        "Country armed force size": "18,000",
+        "Country agricultural land": "27.60%"
       },
       "geometry": {
         "type": "Polygon",
@@ -21433,7 +21653,11 @@
         "Length of the name": 5,
         "GDP per capita": 0.323,
         "Number of terrorist attacks": 213,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "2,978",
+        "Country birth rate": 24.35,
+        "Country armed force size": "0",
+        "Country agricultural land": "66.80%"
       },
       "geometry": {
         "type": "Polygon",
@@ -21544,7 +21768,11 @@
         "Length of the name": 7,
         "GDP per capita": 1.201,
         "Number of terrorist attacks": 46,
-        "Number of university in the top 1000 worldwide": 12
+        "Number of university in the top 1000 worldwide": 12,
+        "Co2-Emissions": "45,537",
+        "Country birth rate": 9.6,
+        "Country armed force size": "40,000",
+        "Country agricultural land": "58.40%"
       },
       "geometry": {
         "type": "Polygon",
@@ -21695,7 +21923,11 @@
         "Length of the name": 9,
         "GDP per capita": 0.931,
         "Number of terrorist attacks": 761,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "563,325",
+        "Country birth rate": 18.07,
+        "Country armed force size": "676,000",
+        "Country agricultural land": "31.50%"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -22772,7 +23004,11 @@
         "Length of the name": 5,
         "GDP per capita": 0.755,
         "Number of terrorist attacks": 11960,
-        "Number of university in the top 1000 worldwide": 31
+        "Number of university in the top 1000 worldwide": 31,
+        "Co2-Emissions": "2,407,672",
+        "Country birth rate": 17.86,
+        "Country armed force size": "3,031,000",
+        "Country agricultural land": "60.40%"
       },
       "geometry": {
         "type": "Polygon",
@@ -23422,7 +23658,11 @@
         "Length of the name": 4,
         "GDP per capita": 1.1,
         "Number of terrorist attacks": 684,
-        "Number of university in the top 1000 worldwide": 16
+        "Number of university in the top 1000 worldwide": 16,
+        "Co2-Emissions": "661,710",
+        "Country birth rate": 18.78,
+        "Country armed force size": "563,000",
+        "Country agricultural land": "28.20%"
       },
       "geometry": {
         "type": "Polygon",
@@ -23749,7 +23989,11 @@
         "Length of the name": 4,
         "GDP per capita": 1.043,
         "Number of terrorist attacks": 24636,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "190,061",
+        "Country birth rate": 29.08,
+        "Country armed force size": "209,000",
+        "Country agricultural land": "21.40%"
       },
       "geometry": {
         "type": "Polygon",
@@ -23896,7 +24140,11 @@
         "Length of the name": 7,
         "GDP per capita": 1.38,
         "Number of terrorist attacks": 4,
-        "Number of university in the top 1000 worldwide": 2
+        "Number of university in the top 1000 worldwide": 2,
+        "Co2-Emissions": "2,065",
+        "Country birth rate": 12.0,
+        "Country armed force size": "0",
+        "Country agricultural land": "18.70%"
       },
       "geometry": {
         "type": "Polygon",
@@ -24003,7 +24251,11 @@
         "Length of the name": 6,
         "GDP per capita": 1.276,
         "Number of terrorist attacks": 2183,
-        "Number of university in the top 1000 worldwide": 22
+        "Number of university in the top 1000 worldwide": 22,
+        "Co2-Emissions": "65,166",
+        "Country birth rate": 20.8,
+        "Country armed force size": "178,000",
+        "Country agricultural land": "24.60%"
       },
       "geometry": {
         "type": "Polygon",
@@ -24122,7 +24374,11 @@
         "Length of the name": 5,
         "GDP per capita": 1.294,
         "Number of terrorist attacks": 1565,
-        "Number of university in the top 1000 worldwide": 96
+        "Number of university in the top 1000 worldwide": 96,
+        "Co2-Emissions": "320,411",
+        "Country birth rate": 7.3,
+        "Country armed force size": "347,000",
+        "Country agricultural land": "43.20%"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -24507,7 +24763,11 @@
         "Length of the name": 7,
         "GDP per capita": 0.831,
         "Number of terrorist attacks": 36,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "8,225",
+        "Country birth rate": 16.1,
+        "Country armed force size": "4,000",
+        "Country agricultural land": "41.00%"
       },
       "geometry": {
         "type": "Polygon",
@@ -24578,7 +24838,11 @@
         "Length of the name": 6,
         "GDP per capita": 0.837,
         "Number of terrorist attacks": 113,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "25,108",
+        "Country birth rate": 21.98,
+        "Country armed force size": "116,000",
+        "Country agricultural land": "12.00%"
       },
       "geometry": {
         "type": "Polygon",
@@ -24681,7 +24945,11 @@
         "Length of the name": 5,
         "GDP per capita": 1.327,
         "Number of terrorist attacks": 402,
-        "Number of university in the top 1000 worldwide": 159
+        "Number of university in the top 1000 worldwide": 159,
+        "Co2-Emissions": "1,135,886",
+        "Country birth rate": 7.4,
+        "Country armed force size": "261,000",
+        "Country agricultural land": "12.30%"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -24978,7 +25246,11 @@
         "Length of the name": 10,
         "GDP per capita": 1.173,
         "Number of terrorist attacks": 27,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "247,207",
+        "Country birth rate": 21.77,
+        "Country armed force size": "71,000",
+        "Country agricultural land": "80.40%"
       },
       "geometry": {
         "type": "Polygon",
@@ -25453,7 +25725,11 @@
         "Length of the name": 5,
         "GDP per capita": 0.512,
         "Number of terrorist attacks": 683,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "17,910",
+        "Country birth rate": 28.75,
+        "Country armed force size": "29,000",
+        "Country agricultural land": "48.50%"
       },
       "geometry": {
         "type": "Polygon",
@@ -25628,7 +25904,11 @@
         "Length of the name": 10,
         "GDP per capita": 0.551,
         "Number of terrorist attacks": 35,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "9,787",
+        "Country birth rate": 27.1,
+        "Country armed force size": "21,000",
+        "Country agricultural land": "55.00%"
       },
       "geometry": {
         "type": "Polygon",
@@ -25795,7 +26075,11 @@
         "Length of the name": 8,
         "GDP per capita": 0.574,
         "Number of terrorist attacks": 259,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "9,919",
+        "Country birth rate": 22.46,
+        "Country armed force size": "191,000",
+        "Country agricultural land": "30.90%"
       },
       "geometry": {
         "type": "Polygon",
@@ -26103,7 +26387,11 @@
         "Length of the name": 6,
         "GDP per capita": 1.5,
         "Number of terrorist attacks": 76,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "98,734",
+        "Country birth rate": 13.94,
+        "Country armed force size": "25,000",
+        "Country agricultural land": "8.40%"
       },
       "geometry": {
         "type": "Polygon",
@@ -26340,7 +26628,11 @@
         "Length of the name": 7,
         "GDP per capita": 0.987,
         "Number of terrorist attacks": 2478,
-        "Number of university in the top 1000 worldwide": 2
+        "Number of university in the top 1000 worldwide": 2,
+        "Co2-Emissions": "24,796",
+        "Country birth rate": 17.55,
+        "Country armed force size": "80,000",
+        "Country agricultural land": "64.30%"
       },
       "geometry": {
         "type": "Polygon",
@@ -26411,7 +26703,11 @@
         "Length of the name": 7,
         "GDP per capita": 0.073,
         "Number of terrorist attacks": 34,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "1,386",
+        "Country birth rate": 33.04,
+        "Country armed force size": "2,000",
+        "Country agricultural land": "28.00%"
       },
       "geometry": {
         "type": "Polygon",
@@ -26546,7 +26842,11 @@
         "Length of the name": 5,
         "GDP per capita": 1.044,
         "Number of terrorist attacks": 2249,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "50,564",
+        "Country birth rate": 18.83,
+        "Country armed force size": "0",
+        "Country agricultural land": "8.70%"
       },
       "geometry": {
         "type": "Polygon",
@@ -26797,7 +27097,11 @@
         "Length of the name": 9,
         "GDP per capita": 0.949,
         "Number of terrorist attacks": 3022,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "23,362",
+        "Country birth rate": 15.83,
+        "Country armed force size": "317,000",
+        "Country agricultural land": "43.70%"
       },
       "geometry": {
         "type": "Polygon",
@@ -26864,7 +27168,11 @@
         "Length of the name": 7,
         "GDP per capita": 0.489,
         "Number of terrorist attacks": 29,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "2,512",
+        "Country birth rate": 26.81,
+        "Country armed force size": "2,000",
+        "Country agricultural land": "77.60%"
       },
       "geometry": {
         "type": "Polygon",
@@ -26939,7 +27247,11 @@
         "Length of the name": 9,
         "GDP per capita": 1.238,
         "Number of terrorist attacks": 8,
-        "Number of university in the top 1000 worldwide": 2
+        "Number of university in the top 1000 worldwide": 2,
+        "Co2-Emissions": "12,963",
+        "Country birth rate": 10.0,
+        "Country armed force size": "34,000",
+        "Country agricultural land": "47.20%"
       },
       "geometry": {
         "type": "Polygon",
@@ -27042,7 +27354,11 @@
         "Length of the name": 10,
         "GDP per capita": 1.609,
         "Number of terrorist attacks": 16,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "8,988",
+        "Country birth rate": 10.3,
+        "Country armed force size": "2,000",
+        "Country agricultural land": "53.70%"
       },
       "geometry": {
         "type": "Polygon",
@@ -27097,7 +27413,11 @@
         "Length of the name": 6,
         "GDP per capita": 1.187,
         "Number of terrorist attacks": 17,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "7,004",
+        "Country birth rate": 10.0,
+        "Country armed force size": "6,000",
+        "Country agricultural land": "31.10%"
       },
       "geometry": {
         "type": "Polygon",
@@ -27212,7 +27532,11 @@
         "Length of the name": 7,
         "GDP per capita": 0.801,
         "Number of terrorist attacks": 36,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "61,276",
+        "Country birth rate": 18.94,
+        "Country armed force size": "246,000",
+        "Country agricultural land": "68.50%"
       },
       "geometry": {
         "type": "Polygon",
@@ -27495,7 +27819,11 @@
         "Length of the name": 7,
         "GDP per capita": 0.685,
         "Number of terrorist attacks": 21,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "5,115",
+        "Country birth rate": 10.1,
+        "Country armed force size": "7,000",
+        "Country agricultural land": "74.20%"
       },
       "geometry": {
         "type": "Polygon",
@@ -27630,7 +27958,11 @@
         "Length of the name": 10,
         "GDP per capita": 0.274,
         "Number of terrorist attacks": 27,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "3,905",
+        "Country birth rate": 32.66,
+        "Country armed force size": "22,000",
+        "Country agricultural land": "71.20%"
       },
       "geometry": {
         "type": "Polygon",
@@ -27853,7 +28185,11 @@
         "Length of the name": 6,
         "GDP per capita": 1.07,
         "Number of terrorist attacks": 524,
-        "Number of university in the top 1000 worldwide": 4
+        "Number of university in the top 1000 worldwide": 4,
+        "Co2-Emissions": "486,406",
+        "Country birth rate": 17.6,
+        "Country armed force size": "336,000",
+        "Country agricultural land": "54.60%"
       },
       "geometry": {
         "type": "Polygon",
@@ -28654,7 +28990,11 @@
         "Length of the name": 4,
         "GDP per capita": 0.385,
         "Number of terrorist attacks": 566,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "3,179",
+        "Country birth rate": 41.54,
+        "Country armed force size": "18,000",
+        "Country agricultural land": "33.80%"
       },
       "geometry": {
         "type": "Polygon",
@@ -28985,7 +29325,11 @@
         "Length of the name": 7,
         "GDP per capita": 0.71,
         "Number of terrorist attacks": 546,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "25,280",
+        "Country birth rate": 17.55,
+        "Country armed force size": "513,000",
+        "Country agricultural land": "19.50%"
       },
       "geometry": {
         "type": "Polygon",
@@ -29292,7 +29636,11 @@
         "Length of the name": 10,
         "GDP per capita": 1.051,
         "Number of terrorist attacks": 5,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "2,017",
+        "Country birth rate": 11.73,
+        "Country armed force size": "12,000",
+        "Country agricultural land": "19.00%"
       },
       "geometry": {
         "type": "Polygon",
@@ -29391,7 +29739,11 @@
         "Length of the name": 8,
         "GDP per capita": 0.948,
         "Number of terrorist attacks": 0,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "25,368",
+        "Country birth rate": 24.13,
+        "Country armed force size": "18,000",
+        "Country agricultural land": "71.50%"
       },
       "geometry": {
         "type": "Polygon",
@@ -29718,7 +30070,11 @@
         "Length of the name": 10,
         "GDP per capita": 0.204,
         "Number of terrorist attacks": 363,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "7,943",
+        "Country birth rate": 37.52,
+        "Country armed force size": "11,000",
+        "Country agricultural land": "63.50%"
       },
       "geometry": {
         "type": "Polygon",
@@ -30053,7 +30409,11 @@
         "Length of the name": 10,
         "GDP per capita": 0.57,
         "Number of terrorist attacks": 18,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "2,739",
+        "Country birth rate": 33.69,
+        "Country armed force size": "21,000",
+        "Country agricultural land": "38.50%"
       },
       "geometry": {
         "type": "Polygon",
@@ -30236,7 +30596,11 @@
         "Length of the name": 6,
         "GDP per capita": 0.191,
         "Number of terrorist attacks": 5,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "1,298",
+        "Country birth rate": 34.12,
+        "Country armed force size": "15,000",
+        "Country agricultural land": "61.40%"
       },
       "geometry": {
         "type": "Polygon",
@@ -30375,7 +30739,11 @@
         "Length of the name": 8,
         "GDP per capita": 1.221,
         "Number of terrorist attacks": 99,
-        "Number of university in the top 1000 worldwide": 6
+        "Number of university in the top 1000 worldwide": 6,
+        "Co2-Emissions": "248,289",
+        "Country birth rate": 16.75,
+        "Country armed force size": "136,000",
+        "Country agricultural land": "26.30%"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -30656,7 +31024,11 @@
         "Length of the name": 7,
         "GDP per capita": 0.879,
         "Number of terrorist attacks": 151,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "4,228",
+        "Country birth rate": 28.64,
+        "Country armed force size": "16,000",
+        "Country agricultural land": "47.10%"
       },
       "geometry": {
         "type": "Polygon",
@@ -30937,7 +31309,11 @@
         "Length of the name": 5,
         "GDP per capita": 0.138,
         "Number of terrorist attacks": 154,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "2,017",
+        "Country birth rate": 46.08,
+        "Country armed force size": "10,000",
+        "Country agricultural land": "36.10%"
       },
       "geometry": {
         "type": "Polygon",
@@ -31196,7 +31572,11 @@
         "Length of the name": 7,
         "GDP per capita": 0.696,
         "Number of terrorist attacks": 3907,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "120,369",
+        "Country birth rate": 37.91,
+        "Country armed force size": "215,000",
+        "Country agricultural land": "77.70%"
       },
       "geometry": {
         "type": "Polygon",
@@ -31455,7 +31835,11 @@
         "Length of the name": 9,
         "GDP per capita": 0.694,
         "Number of terrorist attacks": 1970,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "5,592",
+        "Country birth rate": 20.64,
+        "Country armed force size": "12,000",
+        "Country agricultural land": "42.10%"
       },
       "geometry": {
         "type": "Polygon",
@@ -31690,7 +32074,11 @@
         "Length of the name": 11,
         "GDP per capita": 1.396,
         "Number of terrorist attacks": 130,
-        "Number of university in the top 1000 worldwide": 29
+        "Number of university in the top 1000 worldwide": 29,
+        "Co2-Emissions": "170,780",
+        "Country birth rate": 9.7,
+        "Country armed force size": "41,000",
+        "Country agricultural land": "53.30%"
       },
       "geometry": {
         "type": "Polygon",
@@ -31773,7 +32161,11 @@
         "Length of the name": 6,
         "GDP per capita": 1.488,
         "Number of terrorist attacks": 19,
-        "Number of university in the top 1000 worldwide": 12
+        "Number of university in the top 1000 worldwide": 12,
+        "Co2-Emissions": "41,023",
+        "Country birth rate": 10.4,
+        "Country armed force size": "23,000",
+        "Country agricultural land": "2.70%"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -32166,7 +32558,11 @@
         "Length of the name": 5,
         "GDP per capita": 0.446,
         "Number of terrorist attacks": 1215,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "9,105",
+        "Country birth rate": 19.89,
+        "Country armed force size": "112,000",
+        "Country agricultural land": "28.70%"
       },
       "geometry": {
         "type": "Polygon",
@@ -32285,7 +32681,11 @@
         "Length of the name": 11,
         "GDP per capita": 1.303,
         "Number of terrorist attacks": 20,
-        "Number of university in the top 1000 worldwide": 12
+        "Number of university in the top 1000 worldwide": 12,
+        "Co2-Emissions": "34,382",
+        "Country birth rate": 11.98,
+        "Country armed force size": "9,000",
+        "Country agricultural land": "40.50%"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -32581,7 +32981,11 @@
         "Estimated population": 3418085,
         "Length of the name": 4,
         "Number of terrorist attacks": 0,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "63,457",
+        "Country birth rate": 19.19,
+        "Country armed force size": "47,000",
+        "Country agricultural land": "4.60%"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -32802,7 +33206,11 @@
         "Length of the name": 8,
         "GDP per capita": 0.677,
         "Number of terrorist attacks": 14368,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "201,150",
+        "Country birth rate": 28.25,
+        "Country armed force size": "936,000",
+        "Country agricultural land": "47.80%"
       },
       "geometry": {
         "type": "Polygon",
@@ -33093,7 +33501,11 @@
         "Length of the name": 6,
         "GDP per capita": 1.149,
         "Number of terrorist attacks": 127,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "10,715",
+        "Country birth rate": 18.98,
+        "Country armed force size": "26,000",
+        "Country agricultural land": "30.40%"
       },
       "geometry": {
         "type": "Polygon",
@@ -33328,7 +33740,11 @@
         "Length of the name": 4,
         "GDP per capita": 0.96,
         "Number of terrorist attacks": 6096,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "57,414",
+        "Country birth rate": 17.95,
+        "Country armed force size": "158,000",
+        "Country agricultural land": "18.50%"
       },
       "geometry": {
         "type": "Polygon",
@@ -33659,7 +34075,11 @@
         "Length of the name": 11,
         "GDP per capita": 0.807,
         "Number of terrorist attacks": 6908,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "122,287",
+        "Country birth rate": 20.55,
+        "Country armed force size": "153,000",
+        "Country agricultural land": "41.70%"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -34151,7 +34571,11 @@
         "Estimated population": 6057263,
         "Length of the name": 16,
         "Number of terrorist attacks": 89,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "7,536",
+        "Country birth rate": 27.07,
+        "Country armed force size": "4,000",
+        "Country agricultural land": "2.60%"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -34516,7 +34940,11 @@
         "Length of the name": 6,
         "GDP per capita": 1.206,
         "Number of terrorist attacks": 39,
-        "Number of university in the top 1000 worldwide": 18
+        "Number of university in the top 1000 worldwide": 18,
+        "Co2-Emissions": "299,037",
+        "Country birth rate": 10.2,
+        "Country armed force size": "191,000",
+        "Country agricultural land": "46.90%"
       },
       "geometry": {
         "type": "Polygon",
@@ -34983,7 +35411,11 @@
         "Length of the name": 8,
         "GDP per capita": 1.221,
         "Number of terrorist attacks": 140,
-        "Number of university in the top 1000 worldwide": 14
+        "Number of university in the top 1000 worldwide": 14,
+        "Co2-Emissions": "48,742",
+        "Country birth rate": 8.5,
+        "Country armed force size": "52,000",
+        "Country agricultural land": "39.50%"
       },
       "geometry": {
         "type": "Polygon",
@@ -35142,7 +35574,11 @@
         "Length of the name": 8,
         "GDP per capita": 0.855,
         "Number of terrorist attacks": 114,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "7,407",
+        "Country birth rate": 20.57,
+        "Country armed force size": "27,000",
+        "Country agricultural land": "55.10%"
       },
       "geometry": {
         "type": "Polygon",
@@ -35363,7 +35799,11 @@
         "Length of the name": 5,
         "GDP per capita": 1.684,
         "Number of terrorist attacks": 7,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "103,259",
+        "Country birth rate": 9.54,
+        "Country armed force size": "22,000",
+        "Country agricultural land": "5.80%"
       },
       "geometry": {
         "type": "Polygon",
@@ -35426,7 +35866,11 @@
         "Length of the name": 7,
         "GDP per capita": 1.162,
         "Number of terrorist attacks": 6,
-        "Number of university in the top 1000 worldwide": 3
+        "Number of university in the top 1000 worldwide": 3,
+        "Co2-Emissions": "69,259",
+        "Country birth rate": 9.6,
+        "Country armed force size": "126,000",
+        "Country agricultural land": "58.80%"
       },
       "geometry": {
         "type": "Polygon",
@@ -35629,7 +36073,11 @@
         "Length of the name": 6,
         "GDP per capita": 1.183,
         "Number of terrorist attacks": 2194,
-        "Number of university in the top 1000 worldwide": 9
+        "Number of university in the top 1000 worldwide": 9,
+        "Co2-Emissions": "1,732,027",
+        "Country birth rate": 11.5,
+        "Country armed force size": "1,454,000",
+        "Country agricultural land": "13.30%"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -38098,7 +38546,11 @@
         "Length of the name": 6,
         "GDP per capita": 0.359,
         "Number of terrorist attacks": 159,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "1,115",
+        "Country birth rate": 31.7,
+        "Country armed force size": "35,000",
+        "Country agricultural land": "73.40%"
       },
       "geometry": {
         "type": "Polygon",
@@ -38315,7 +38767,11 @@
         "Length of the name": 12,
         "GDP per capita": 1.403,
         "Number of terrorist attacks": 371,
-        "Number of university in the top 1000 worldwide": 8
+        "Number of university in the top 1000 worldwide": 8,
+        "Co2-Emissions": "563,449",
+        "Country birth rate": 17.8,
+        "Country armed force size": "252,000",
+        "Country agricultural land": "80.80%"
       },
       "geometry": {
         "type": "Polygon",
@@ -38645,7 +39101,11 @@
         "Estimated population": 25946220,
         "Length of the name": 5,
         "Number of terrorist attacks": 967,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "20,000",
+        "Country birth rate": 32.18,
+        "Country armed force size": "124,000",
+        "Country agricultural land": "28.70%"
       },
       "geometry": {
         "type": "Polygon",
@@ -39266,7 +39726,11 @@
         "Length of the name": 7,
         "GDP per capita": 0.45,
         "Number of terrorist attacks": 118,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "10,902",
+        "Country birth rate": 34.52,
+        "Country armed force size": "19,000",
+        "Country agricultural land": "46.10%"
       },
       "geometry": {
         "type": "Polygon",
@@ -39661,7 +40125,11 @@
         "Length of the name": 12,
         "GDP per capita": 0.268,
         "Number of terrorist attacks": 101,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "1,093",
+        "Country birth rate": 33.41,
+        "Country armed force size": "9,000",
+        "Country agricultural land": "54.70%"
       },
       "geometry": {
         "type": "Polygon",
@@ -39776,7 +40244,11 @@
         "Length of the name": 11,
         "GDP per capita": 0.794,
         "Number of terrorist attacks": 5320,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "7,169",
+        "Country birth rate": 18.25,
+        "Country armed force size": "42,000",
+        "Country agricultural land": "76.40%"
       },
       "geometry": {
         "type": "Polygon",
@@ -40005,7 +40477,11 @@
         "Length of the name": 7,
         "GDP per capita": 0.0,
         "Number of terrorist attacks": 4142,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "645",
+        "Country birth rate": 41.75,
+        "Country armed force size": "20,000",
+        "Country agricultural land": "70.30%"
       },
       "geometry": {
         "type": "Polygon",
@@ -40176,7 +40652,11 @@
         "Length of the name": 6,
         "GDP per capita": 1.004,
         "Number of terrorist attacks": 12,
-        "Number of university in the top 1000 worldwide": 2
+        "Number of university in the top 1000 worldwide": 2,
+        "Co2-Emissions": "45,221",
+        "Country birth rate": 9.2,
+        "Country armed force size": "32,000",
+        "Country agricultural land": "39.30%"
       },
       "geometry": {
         "type": "Polygon",
@@ -40386,7 +40866,11 @@
         "Estimated population": 481267,
         "Length of the name": 8,
         "Number of terrorist attacks": 66,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "1,738",
+        "Country birth rate": 18.54,
+        "Country armed force size": "2,000",
+        "Country agricultural land": "0.60%"
       },
       "geometry": {
         "type": "Polygon",
@@ -40517,7 +41001,11 @@
         "Length of the name": 8,
         "GDP per capita": 1.246,
         "Number of terrorist attacks": 0,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "32,424",
+        "Country birth rate": 10.6,
+        "Country armed force size": "16,000",
+        "Country agricultural land": "39.20%"
       },
       "geometry": {
         "type": "Polygon",
@@ -40676,7 +41164,11 @@
         "Length of the name": 8,
         "GDP per capita": 1.258,
         "Number of terrorist attacks": 6,
-        "Number of university in the top 1000 worldwide": 4
+        "Number of university in the top 1000 worldwide": 4,
+        "Co2-Emissions": "12,633",
+        "Country birth rate": 9.4,
+        "Country armed force size": "7,000",
+        "Country agricultural land": "30.70%"
       },
       "geometry": {
         "type": "Polygon",
@@ -40775,7 +41267,11 @@
         "Length of the name": 6,
         "GDP per capita": 1.387,
         "Number of terrorist attacks": 132,
-        "Number of university in the top 1000 worldwide": 24
+        "Number of university in the top 1000 worldwide": 24,
+        "Co2-Emissions": "43,252",
+        "Country birth rate": 11.4,
+        "Country armed force size": "30,000",
+        "Country agricultural land": "7.40%"
       },
       "geometry": {
         "type": "Polygon",
@@ -41033,7 +41529,11 @@
         "Length of the name": 5,
         "GDP per capita": 0.619,
         "Number of terrorist attacks": 2201,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "28,830",
+        "Country birth rate": 23.69,
+        "Country armed force size": "239,000",
+        "Country agricultural land": "75.80%"
       },
       "geometry": {
         "type": "Polygon",
@@ -41168,7 +41668,11 @@
         "Length of the name": 4,
         "GDP per capita": 0.35,
         "Number of terrorist attacks": 91,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "1,016",
+        "Country birth rate": 42.17,
+        "Country armed force size": "35,000",
+        "Country agricultural land": "39.70%"
       },
       "geometry": {
         "type": "Polygon",
@@ -41427,7 +41931,11 @@
         "Length of the name": 4,
         "GDP per capita": 0.275,
         "Number of terrorist attacks": 48,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "3,000",
+        "Country birth rate": 33.11,
+        "Country armed force size": "10,000",
+        "Country agricultural land": "70.20%"
       },
       "geometry": {
         "type": "Polygon",
@@ -41530,7 +42038,11 @@
         "Length of the name": 8,
         "GDP per capita": 1.05,
         "Number of terrorist attacks": 3849,
-        "Number of university in the top 1000 worldwide": 6
+        "Number of university in the top 1000 worldwide": 6,
+        "Co2-Emissions": "283,763",
+        "Country birth rate": 10.34,
+        "Country armed force size": "455,000",
+        "Country agricultural land": "43.30%"
       },
       "geometry": {
         "type": "Polygon",
@@ -41813,7 +42325,11 @@
         "Length of the name": 10,
         "GDP per capita": 0.493,
         "Number of terrorist attacks": 188,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "5,310",
+        "Country birth rate": 30.76,
+        "Country armed force size": "17,000",
+        "Country agricultural land": "34.10%"
       },
       "geometry": {
         "type": "Polygon",
@@ -42004,7 +42520,11 @@
         "Length of the name": 12,
         "GDP per capita": 1.052,
         "Number of terrorist attacks": 2,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "70,630",
+        "Country birth rate": 23.83,
+        "Country armed force size": "42,000",
+        "Country agricultural land": "72.00%"
       },
       "geometry": {
         "type": "Polygon",
@@ -42316,7 +42836,11 @@
         "Estimated population": 1310000,
         "Length of the name": 19,
         "Number of terrorist attacks": 22,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "43,868",
+        "Country birth rate": 12.94,
+        "Country armed force size": "4,000",
+        "Country agricultural land": "10.50%"
       },
       "geometry": {
         "type": "Polygon",
@@ -42375,7 +42899,11 @@
         "Length of the name": 7,
         "GDP per capita": 0.921,
         "Number of terrorist attacks": 109,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "29,937",
+        "Country birth rate": 17.56,
+        "Country armed force size": "48,000",
+        "Country agricultural land": "64.80%"
       },
       "geometry": {
         "type": "Polygon",
@@ -42526,7 +43054,11 @@
         "Length of the name": 6,
         "GDP per capita": 1.183,
         "Number of terrorist attacks": 4292,
-        "Number of university in the top 1000 worldwide": 20
+        "Number of university in the top 1000 worldwide": 20,
+        "Co2-Emissions": "372,725",
+        "Country birth rate": 16.03,
+        "Country armed force size": "512,000",
+        "Country agricultural land": "49.80%"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -42890,7 +43422,11 @@
         "Length of the name": 8,
         "GDP per capita": 0.476,
         "Number of terrorist attacks": 59,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "11,973",
+        "Country birth rate": 36.7,
+        "Country armed force size": "28,000",
+        "Country agricultural land": "44.80%"
       },
       "geometry": {
         "type": "Polygon",
@@ -43113,7 +43649,11 @@
         "Length of the name": 6,
         "GDP per capita": 0.332,
         "Number of terrorist attacks": 394,
-        "Number of university in the top 1000 worldwide": 2
+        "Number of university in the top 1000 worldwide": 2,
+        "Co2-Emissions": "5,680",
+        "Country birth rate": 38.14,
+        "Country armed force size": "46,000",
+        "Country agricultural land": "71.90%"
       },
       "geometry": {
         "type": "Polygon",
@@ -43248,7 +43788,11 @@
         "Length of the name": 7,
         "GDP per capita": 0.82,
         "Number of terrorist attacks": 1709,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "202,250",
+        "Country birth rate": 8.7,
+        "Country armed force size": "297,000",
+        "Country agricultural land": "71.70%"
       },
       "geometry": {
         "type": "Polygon",
@@ -43667,7 +44211,11 @@
         "Length of the name": 7,
         "GDP per capita": 1.124,
         "Number of terrorist attacks": 82,
-        "Number of university in the top 1000 worldwide": 2
+        "Number of university in the top 1000 worldwide": 2,
+        "Co2-Emissions": "6,766",
+        "Country birth rate": 13.86,
+        "Country armed force size": "22,000",
+        "Country agricultural land": "82.60%"
       },
       "geometry": {
         "type": "Polygon",
@@ -43778,7 +44326,11 @@
         "Length of the name": 13,
         "GDP per capita": 1.433,
         "Number of terrorist attacks": 2836,
-        "Number of university in the top 1000 worldwide": 573
+        "Number of university in the top 1000 worldwide": 573,
+        "Co2-Emissions": "5,006,302",
+        "Country birth rate": 11.6,
+        "Country armed force size": "1,359,000",
+        "Country agricultural land": "44.40%"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -45619,7 +46171,11 @@
         "Length of the name": 10,
         "GDP per capita": 0.745,
         "Number of terrorist attacks": 21,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "91,811",
+        "Country birth rate": 23.3,
+        "Country armed force size": "68,000",
+        "Country agricultural land": "62.90%"
       },
       "geometry": {
         "type": "Polygon",
@@ -45862,7 +46418,11 @@
         "Length of the name": 9,
         "GDP per capita": 0.96,
         "Number of terrorist attacks": 293,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "164,175",
+        "Country birth rate": 17.88,
+        "Country armed force size": "343,000",
+        "Country agricultural land": "24.50%"
       },
       "geometry": {
         "type": "Polygon",
@@ -46257,7 +46817,11 @@
         "Length of the name": 7,
         "GDP per capita": 0.741,
         "Number of terrorist attacks": 12,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "192,668",
+        "Country birth rate": 16.75,
+        "Country armed force size": "522,000",
+        "Country agricultural land": "39.30%"
       },
       "geometry": {
         "type": "Polygon",
@@ -46459,7 +47023,11 @@
         "Estimated population": 218519,
         "Length of the name": 7,
         "Number of terrorist attacks": 2,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "147",
+        "Country birth rate": 29.6,
+        "Country armed force size": 0,
+        "Country agricultural land": "15.30%"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -46540,7 +47108,11 @@
         "Length of the name": 5,
         "GDP per capita": 0.287,
         "Number of terrorist attacks": 3347,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "10,609",
+        "Country birth rate": 30.45,
+        "Country armed force size": "40,000",
+        "Country agricultural land": "44.60%"
       },
       "geometry": {
         "type": "Polygon",
@@ -46743,7 +47315,11 @@
         "Length of the name": 12,
         "GDP per capita": 0.96,
         "Number of terrorist attacks": 2016,
-        "Number of university in the top 1000 worldwide": 10
+        "Number of university in the top 1000 worldwide": 10,
+        "Co2-Emissions": "476,644",
+        "Country birth rate": 20.51,
+        "Country armed force size": "80,000",
+        "Country agricultural land": "79.80%"
       },
       "geometry": {
         "type": "Polygon",
@@ -47148,7 +47724,11 @@
         "Length of the name": 6,
         "GDP per capita": 0.578,
         "Number of terrorist attacks": 62,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "5,141",
+        "Country birth rate": 36.19,
+        "Country armed force size": "16,000",
+        "Country agricultural land": "32.10%"
       },
       "geometry": {
         "type": "Polygon",
@@ -47419,7 +47999,11 @@
         "Length of the name": 8,
         "GDP per capita": 0.366,
         "Number of terrorist attacks": 101,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Co2-Emissions": "10,983",
+        "Country birth rate": 30.68,
+        "Country armed force size": "51,000",
+        "Country agricultural land": "41.90%"
       },
       "geometry": {
         "type": "Polygon",

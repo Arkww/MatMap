@@ -10,6 +10,8 @@ var color7 = "#0096c7";
 var color8 = "#0077b6";
 var color9 = "#023e8a";
 var color10 = "#03045e";
+let geojsonData = null;
+let geojsonLayer = null;
 
 
 const map = L.map('map', {
@@ -60,10 +62,13 @@ function startGame() {
   answerElements.forEach((element, index) => {
     element.innerHTML = " "})
     score1.innerHTML = 0
-    score2.innerHTML = 0
+
 
   document.getElementById("menu").style.display = "none";
   document.getElementById("score").style.display = "flex";
+
+  var score2 = document.getElementById("score2");
+  score2.innerHTML = listButtons.length
 
   setRandomValue();
   changeButtons();
@@ -83,18 +88,27 @@ function getColor(value, threshold) {
   }
 
 
+  if (typeof value === 'string') {
+    value = parseFloat(value.replace(/,/g, '').replace('%', ''));
+  }
+
+
+  if (isNaN(value)) {
+    return '#000000'; 
+  }
   return value > threshold[9] ? color10 :
-    value > threshold[8] ? color9 :
-    value > threshold[7] ? color8 :
-    value > threshold[6] ? color7 :
-    value > threshold[5] ? color6 :
-    value > threshold[4] ? color5 :
-    value > threshold[3] ? color4 :
-    value > threshold[2] ? color3 :
-    value > threshold[1] ? color2 :
-    value > threshold[0] ? color1 :
-    '#000000'; 
+         value > threshold[8] ? color9 :
+         value > threshold[7] ? color8 :
+         value > threshold[6] ? color7 :
+         value > threshold[5] ? color6 :
+         value > threshold[4] ? color5 :
+         value > threshold[3] ? color4 :
+         value > threshold[2] ? color3 :
+         value > threshold[1] ? color2 :
+         value > threshold[0] ? color1 :
+         '#000000';
 }
+
 
 
 
@@ -110,16 +124,21 @@ function onEachFeature(feature, layer) {
 
 
 function getThreshold(geojson, property) {
-
-  const values = geojson.features.map(feature => feature.properties[property]);
-
+  const values = geojson.features
+    .map(feature => {
+      const rawValue = feature.properties[property];
+      if (typeof rawValue === 'string') {
+        return parseFloat(rawValue.replace(/,/g, '').replace('%', ''));
+      }
+      return typeof rawValue === 'number' ? rawValue : NaN; 
+    })
+    .filter(value => !isNaN(value)); 
 
   values.sort((a, b) => a - b);
 
-
   const thresholds = [];
   for (let i = 1; i <= 10; i++) {
-    const index = Math.floor(i * values.length / 10) - 1;  
+    const index = Math.floor(i * values.length / 10) - 1;
     thresholds.push(values[index]);
   }
 
@@ -128,28 +147,36 @@ function getThreshold(geojson, property) {
 
 
 
+
+
 function loadmap(current) {
-  console.log(current);
-  
+  console.log("Current Property:", current);
 
-  loadGeoJSON('world.geojson') 
+  // Load the GeoJSON data (either from memory or fetch if not loaded)
+  loadGeoJSON('world.geojson')
     .then(geojson => {
-
+      // Calculate the threshold for the given property
       const threshold = getThreshold(geojson, current);
       console.log("Threshold:", threshold);
 
-  
-      const geojsonLayer = new L.GeoJSON.AJAX('world.geojson', {
+      // Remove any existing GeoJSON layer to avoid redraw issues
+      if (geojsonLayer) {
+        map.removeLayer(geojsonLayer);
+      }
+      
+
+      // Create a new GeoJSON layer with dynamic styling
+      geojsonLayer = L.geoJSON(geojson, {
         style: function (feature) {
-          return getStyle(feature, current, threshold);
+          return getStyle(feature, current, threshold); // Apply dynamic style
         },
-        onEachFeature: onEachFeature
-      }).addTo(map);
+        onEachFeature: onEachFeature // Add tooltips or interactions
+      }).addTo(map); // Add the layer to the map
     })
     .catch(error => {
       console.error("Error loading or processing GeoJSON:", error);
     });
-  
+}
 
   function getStyle(feature, current, threshold) {
     return {
@@ -160,7 +187,7 @@ function loadmap(current) {
       fillColor: getColor(feature.properties[current], threshold),
     };
   }
-}
+
 
 
 var choice1 = "pop"
@@ -172,7 +199,7 @@ var score = 0
 const cooldownTime = "1000"
 
 
-var listButtons = ["Estimated population", "Country GDP", "GDP per capita", "Length of the name", "Number of terrorist attacks","Number of university in the top 1000 worldwide"]
+var listButtons = ["Estimated population", "Country GDP", "GDP per capita", "Length of the name", "Number of terrorist attacks","Number of university in the top 1000 worldwide","Co2-Emissions","Country birth rate", "Country armed force size","Country agricultural land"]
 var alreadyGuessed = []
 
 function setRandomValue() {
@@ -193,46 +220,51 @@ function setRandomValue() {
   return current ;
 }
 
+function betweenMatch() {
+  document.getElementById("between").style.display = "flex";
+  disableButtons()
+
+  var t1 = document.getElementById("bText1")
+  t1.innerHTML = "The data of the map was : " + current
+
+  var a = document.getElementById("between")
+  a.addEventListener("click", () => {
+    setRandomValue();
+    changeButtons();
+    enableButtons()
+    document.getElementById("between").style.display = "none";
+  });
+}
+
 // Event listeners for the buttons
 const button1 = document.getElementById('choice1');
 button1.addEventListener("click", () => {
-  disableButtons();
   updateScore(button1.innerHTML);
-  setRandomValue();
-  changeButtons();
-  setTimeout(enableButtons, cooldownTime);
+  betweenMatch()
+
 });
 
 const button2 = document.getElementById('choice2');
 button2.addEventListener("click", () => {
-  disableButtons();
   updateScore(button2.innerHTML);
-  var c = setRandomValue();
-  changeButtons();
-  setTimeout(enableButtons, cooldownTime);
+  betweenMatch()
 });
 
 const button3 = document.getElementById('choice3');
 button3.addEventListener("click", () => {
-  disableButtons();
   updateScore(button3.innerHTML);
-  setRandomValue();
-  changeButtons();
-  setTimeout(enableButtons, cooldownTime);
+  betweenMatch()
 });
 
 const button4 = document.getElementById('choice4');
 button4.addEventListener("click", () => {
-  disableButtons();
   updateScore(button4.innerHTML);
-  setRandomValue();
-  changeButtons();
-  setTimeout(enableButtons, cooldownTime);
+  betweenMatch()
 });
 
 function updateScore(guess) {
   var score1 = document.getElementById("score1");
-  var score2 = document.getElementById("score2");
+  var round = document.getElementById("round");
   const answerElements = document.querySelectorAll('.answer');
 
   if (guess == current) {
@@ -247,9 +279,9 @@ function updateScore(guess) {
     });
 
   }
-
+  round.innerHTML = alreadyGuessed.length + 1
   score1.innerHTML = score
-  score2.innerHTML = alreadyGuessed.length
+
 }
 
 function disableButtons() {
@@ -288,21 +320,28 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 
 function getUniqueChoices(list) {
-  const choices = [];
-  
 
-  while (choices.length < list.length - 1) {  
+  if (!list.includes(current)) {
+    throw new Error("The `current` value must exist in the list.");
+  }
+
+  const choices = [];
+  console.log("Current:", current);
+
+  while (choices.length < 3) {
     const randomChoice = list[Math.floor(Math.random() * list.length)];
     if (!choices.includes(randomChoice) && randomChoice !== current) {
       choices.push(randomChoice);
     }
   }
 
-  const currentIndex = Math.floor(Math.random() * choices.length);
+  const currentIndex = Math.floor(Math.random() * (choices.length + 1));
   choices.splice(currentIndex, 0, current);
-  
+
+  console.log("Choices:", choices); 
   return choices;
 }
+
 
 
 
@@ -322,7 +361,8 @@ function changeButtons() {
 
 
 document.addEventListener('DOMContentLoaded', () => {
-  let highscore = getCookie("highscore");
+  document.getElementById("between").style.display = "none";
+    let highscore = getCookie("highscore");
   if (highscore !== null) {
     document.getElementById("highScore").innerText = highscore;
   } else {
@@ -452,12 +492,20 @@ function getCookie(name) {
 createLegend()
 
 function loadGeoJSON(url) {
-  return fetch(url) 
-    .then(response => response.json()) 
-    .then(data => {
-      return data; 
+  if (geojsonData) {
+    // If GeoJSON data is already loaded, return it from memory
+    return Promise.resolve(geojsonData);
+  }
+
+  return fetch(url)
+    .then(response => {
+      if (!response.ok) {
+        throw new Error(`Error loading GeoJSON: ${response.statusText}`);
+      }
+      return response.json();
     })
-    .catch(error => {
-      console.error("Error loading GeoJSON:", error);
+    .then(data => {
+      geojsonData = data; // Store the loaded data in memory
+      return geojsonData;  // Return the data
     });
 }

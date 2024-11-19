@@ -6,21 +6,17 @@ import pandas as pd
 import numpy as np
 
 
-df = pd.read_csv("2/cwurData.csv",encoding='ISO-8859-1')
+df = pd.read_csv("")
 # if you have an encoding error you can try adding "encoding='ISO-8859-1'"
 
 
 geojson_file = "world.geojson"
-try:
-    with open(geojson_file, "r", encoding="ISO-8859-1") as f:
-        geojson_data = json.load(f)
-except json.JSONDecodeError as e:
-    print(f"Error decoding JSON: {e}")
-    with open(geojson_file, "r", encoding="ISO-8859-1") as f:
-        print(f.read())  # This will print the entire content so you can spot any errors
+with open(geojson_file, "r") as f:
+    geojson_data = json.load(f)
 
 
-country_column = "country"  
+
+country_column = ""  
 
 country_counts = df[country_column].value_counts()
 
