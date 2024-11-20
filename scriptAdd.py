@@ -3,10 +3,10 @@
 
 import json
 import pandas as pd
+import numpy as np
 
 
-
-df = pd.read_csv("1/world-data-2023.csv")
+df = pd.read_csv("")
 # if you have an encoding error you can try adding "encoding='ISO-8859-1'"
 
 
@@ -23,12 +23,24 @@ for feature in geojson_data["features"]:
      matching_row = df[df[country_column] == country_name]
 
      if not matching_row.empty: 
-         feature["properties"]["Country agricultural land"] = matching_row.iloc[0]["Agricultural Land( %)"]
+         feature["properties"][""] = matching_row.iloc[0][""]
 
 # When you add a new data entry, don't forget to also add it in the listButtons list of the map.js file
 
+
+
+def convert_to_serializable(obj):
+    if isinstance(obj, np.integer):
+        return int(obj)  
+    elif isinstance(obj, np.floating):
+        return float(obj) 
+    elif isinstance(obj, np.ndarray):
+        return obj.tolist() 
+    else:
+        return obj  
+
 output_file = "world.geojson"
 with open(output_file, "w") as f:
-    json.dump(geojson_data, f, indent=2)
+    json.dump(geojson_data, f, indent=2, default=convert_to_serializable)
 
 print(f"Updated GeoJSON saved to {output_file}")

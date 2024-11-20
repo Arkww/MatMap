@@ -1,4 +1,4 @@
-
+/* Base Styles */
 body.dark {
     background-color: black;
     color: white;
@@ -27,20 +27,18 @@ body.light #map {
     margin-top: 30px;
     height: 35rem;
     width: 100%;
-
 }
+
 #score {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-
 }
 
 #scoreMini {
     display: flex;
     justify-content: space-between;
-
 }
 
 #sec0 {
@@ -60,47 +58,112 @@ body {
     flex-direction: column;
     justify-content: center;
 }
-/* Styles des labels de pays */
+
+/* Country labels */
 .country-label {
     font-size: 10px;
-    
-    color: #fcfcfc; /* Couleur du texte */
-    background: transparent; /* Enlève le fond */
-    border: none; /* Enlève les bordures */
-    box-shadow: none; /* Supprime l'ombre */
-
-    pointer-events: none; /* Empêche de sélectionner les labels */
+    color: #fcfcfc;
+    background: transparent;
+    border: none;
+    box-shadow: none;
+    pointer-events: none;
     font-family: "Faculty Glyphic", sans-serif;
     font-weight: 40000;
     font-style: normal;
-  }
+}
 
-
-  #bottom {
+#bottom {
     display: flex;
     justify-content: center;
     flex-direction: column;
     align-items: center;
 }
 
-  
-  #menu,#between {
+#menu, #between {
     background-color: rgb(88, 90, 223);
     flex-direction: column;
     display: flex;
     align-items: center;
     width: 30%;
     transition-duration: 0.5s;
-    align-items: center;
     justify-content: center;
     border-radius: 50px;
     margin-top: 10px;
     padding: 20px;
-  }
-  #between {
-    font-size: x-large;
-  }
+}
 
-  #menu:hover,#between:hover {
+#between {
+    font-size: x-large;
+}
+
+#menu:hover, #between:hover {
     scale: 1.1;
-  }
+}
+
+/* Responsive Styles for Screens Under 600px */
+@media (max-width: 600px) {
+    .answer {
+        padding-left: 1rem;
+        padding-right: 1rem;
+        font-size: large;
+    }
+
+    #map {
+        height: 20rem;
+    }
+
+  
+
+    #sec0 {
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    #buttons {
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    #menu, #between {
+        width: 80%;
+        margin-top: 5px;
+        padding: 15px;
+    }
+
+    #between {
+        font-size: medium;
+    }
+
+
+
+    #choices {
+        flex-direction: column;
+        
+        justify-content: center;
+    }
+    .button {
+        width: 100%;
+        margin: 0;
+        padding: 1rem;
+    }
+
+
+    
+
+}
+
+a{
+    outline-style: none;
+    color: rgb(88, 90, 223);
+    text-decoration: none;
+    transition-duration: 0.5s;
+}
+
+a:hover {
+    scale: 1.1;
+}
+
+
+#round {
+    margin-left: 5px;
+}

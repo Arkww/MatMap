@@ -7,8 +7,8 @@ with open('world.geojson', 'r', encoding='utf-8') as f:
     data = json.load(f)
 
 
-old_property_name = "name_len"  
-new_property_name = "Length of the name"  
+old_property_name = "Total case of covid"  
+new_property_name = "Total cases of covid"  
 
 
 for feature in data['features']:

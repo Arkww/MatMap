@@ -4,14 +4,25 @@
     display: flex;
     gap: 100px;
 }
-.button {
-    padding: 1rem 2rem;
-    border-radius: 0.5rem;
+
+@media (min-width: 600px) {
+
+  .button {
     margin: 4rem;
+    padding: 1rem 2rem;
+    width: 80%;
+  }
+
+
+}
+.button {
+
+    border-radius: 0.5rem;
+
     border: none;
     font-size: 1rem;
     font-weight: 400;
-    width: 80%;
+
     color: #f4f0ff;
     text-align: center;
     position: relative;

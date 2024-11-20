@@ -12,6 +12,19 @@ var color9 = "#023e8a";
 var color10 = "#03045e";
 let geojsonData = null;
 let geojsonLayer = null;
+var choice1 = "pop"
+var choice2 = "pop"
+var choice3 = "pop"
+var choice4 = "pop"
+var current = " ";
+var score = 0
+const cooldownTime = "1000"
+const TURNLIMIT = 10
+
+
+var listButtons = ["Daily consumption of oil barrels","Average IQ","Total cases of covid","Estimated population", "Country GDP", "GDP per capita", "Length of the name", "Number of terrorist attacks","Number of university in the top 1000 worldwide","Co2-Emissions","Country birth rate", "Country armed force size","Country agricultural land"]
+var alreadyGuessed = []
+
 
 
 const map = L.map('map', {
@@ -49,6 +62,8 @@ function endGame() {
   document.getElementById("highScore").innerText = highscore;
 
   document.getElementById("menu").style.display = "flex";
+  document.getElementById("between").style.display = "none";
+  document.getElementById("roundMenu").style.display = "none";
 
 }
 
@@ -66,9 +81,14 @@ function startGame() {
 
   document.getElementById("menu").style.display = "none";
   document.getElementById("score").style.display = "flex";
+  document.getElementById("roundMenu").style.display = "flex";
+
+
+  var r = document.getElementById("round");
+  r.innerHTML = " " + 1
 
   var score2 = document.getElementById("score2");
-  score2.innerHTML = listButtons.length
+  score2.innerHTML = 10
 
   setRandomValue();
   changeButtons();
@@ -151,27 +171,27 @@ function getThreshold(geojson, property) {
 
 function loadmap(current) {
   console.log("Current Property:", current);
-
-  // Load the GeoJSON data (either from memory or fetch if not loaded)
+  console.trace();
+  
   loadGeoJSON('world.geojson')
     .then(geojson => {
-      // Calculate the threshold for the given property
+ 
       const threshold = getThreshold(geojson, current);
       console.log("Threshold:", threshold);
 
-      // Remove any existing GeoJSON layer to avoid redraw issues
+     
       if (geojsonLayer) {
         map.removeLayer(geojsonLayer);
+        geojsonLayer = null;
       }
       
 
-      // Create a new GeoJSON layer with dynamic styling
       geojsonLayer = L.geoJSON(geojson, {
         style: function (feature) {
-          return getStyle(feature, current, threshold); // Apply dynamic style
+          return getStyle(feature, current, threshold);
         },
-        onEachFeature: onEachFeature // Add tooltips or interactions
-      }).addTo(map); // Add the layer to the map
+        onEachFeature: onEachFeature 
+      }).addTo(map); 
     })
     .catch(error => {
       console.error("Error loading or processing GeoJSON:", error);
@@ -190,20 +210,10 @@ function loadmap(current) {
 
 
 
-var choice1 = "pop"
-var choice2 = "pop"
-var choice3 = "pop"
-var choice4 = "pop"
-var current = " ";
-var score = 0
-const cooldownTime = "1000"
 
-
-var listButtons = ["Estimated population", "Country GDP", "GDP per capita", "Length of the name", "Number of terrorist attacks","Number of university in the top 1000 worldwide","Co2-Emissions","Country birth rate", "Country armed force size","Country agricultural land"]
-var alreadyGuessed = []
 
 function setRandomValue() {
-  if (alreadyGuessed.length == listButtons.length) {
+  if (alreadyGuessed.length == TURNLIMIT) {
     endGame()
     return;
   }
@@ -220,19 +230,37 @@ function setRandomValue() {
   return current ;
 }
 
-function betweenMatch() {
+function betweenMatch(score) {
   document.getElementById("between").style.display = "flex";
+  var a = document.getElementById("between")
   disableButtons()
+
 
   var t1 = document.getElementById("bText1")
   t1.innerHTML = "The data of the map was : " + current
 
-  var a = document.getElementById("between")
-  a.addEventListener("click", () => {
-    setRandomValue();
-    changeButtons();
-    enableButtons()
-    document.getElementById("between").style.display = "none";
+  var a = document.getElementById("between");
+
+
+  a.removeEventListener("click", handleClick);
+
+  a.addEventListener("click", handleClick);
+
+
+}
+
+function handleClick() {
+  if (alreadyGuessed.length === 10) {
+    endGame()
+    return ;
+  }
+  setRandomValue();
+  changeButtons();
+  enableButtons();
+  document.getElementById("between").style.display = "none";
+  const answerElements = document.querySelectorAll('.answer');
+  answerElements.forEach((element) => {
+    element.innerHTML = " ";
   });
 }
 
@@ -279,7 +307,11 @@ function updateScore(guess) {
     });
 
   }
-  round.innerHTML = alreadyGuessed.length + 1
+
+  if (alreadyGuessed.length != 10) {
+    round.innerHTML = alreadyGuessed.length + 1
+  }
+
   score1.innerHTML = score
 
 }
@@ -326,11 +358,11 @@ function getUniqueChoices(list) {
   }
 
   const choices = [];
-  console.log("Current:", current);
+
 
   while (choices.length < 3) {
     const randomChoice = list[Math.floor(Math.random() * list.length)];
-    if (!choices.includes(randomChoice) && randomChoice !== current) {
+    if (!choices.includes(randomChoice) && randomChoice != current && !alreadyGuessed.includes(randomChoice)) {
       choices.push(randomChoice);
     }
   }
@@ -338,7 +370,7 @@ function getUniqueChoices(list) {
   const currentIndex = Math.floor(Math.random() * (choices.length + 1));
   choices.splice(currentIndex, 0, current);
 
-  console.log("Choices:", choices); 
+
   return choices;
 }
 

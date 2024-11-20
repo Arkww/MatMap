@@ -25,7 +25,7 @@ for feature in geojson_data["features"]:
 
     
     country_count = country_counts.get(country_name, 0)
-    feature["properties"]["Number of university in the top 1000 worldwide"] = country_count # name of the new column
+    feature["properties"][""] = country_count # name of the new column
 
 
 # When you add a new data entry, don't forget to also add it in the listButtons list of the map.js file

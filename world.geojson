@@ -22,7 +22,10 @@
         "Co2-Emissions": "8,672",
         "Country birth rate": 32.49,
         "Country armed force size": "323,000",
-        "Country agricultural land": "58.10%"
+        "Country agricultural land": "58.10%",
+        "Average IQ": 81,
+        "Daily consumption of oil barrels": 35000,
+        "Total cases of covid": "208,545"
       },
       "geometry": {
         "type": "Polygon",
@@ -328,7 +331,9 @@
         "Co2-Emissions": "34,693",
         "Country birth rate": 40.73,
         "Country armed force size": "117,000",
-        "Country agricultural land": "47.50%"
+        "Country agricultural land": "47.50%",
+        "Daily consumption of oil barrels": 133000,
+        "Total cases of covid": "105,184"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -665,7 +670,10 @@
         "Co2-Emissions": "4,536",
         "Country birth rate": 11.78,
         "Country armed force size": "9,000",
-        "Country agricultural land": "43.10%"
+        "Country agricultural land": "43.10%",
+        "Average IQ": 82,
+        "Daily consumption of oil barrels": 27000,
+        "Total cases of covid": "334,167"
       },
       "geometry": {
         "type": "Polygon",
@@ -784,7 +792,9 @@
         "Co2-Emissions": "206,324",
         "Country birth rate": 10.33,
         "Country armed force size": "63,000",
-        "Country agricultural land": "5.50%"
+        "Country agricultural land": "5.50%",
+        "Average IQ": 82,
+        "Daily consumption of oil barrels": 896000
       },
       "geometry": {
         "type": "Polygon",
@@ -903,7 +913,10 @@
         "Co2-Emissions": "201,348",
         "Country birth rate": 17.02,
         "Country armed force size": "105,000",
-        "Country agricultural land": "54.30%"
+        "Country agricultural land": "54.30%",
+        "Average IQ": 87,
+        "Daily consumption of oil barrels": 709000,
+        "Total cases of covid": "10,037,135"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1424,7 +1437,9 @@
         "Co2-Emissions": "5,156",
         "Country birth rate": 13.99,
         "Country armed force size": "49,000",
-        "Country agricultural land": "58.90%"
+        "Country agricultural land": "58.90%",
+        "Daily consumption of oil barrels": 6000,
+        "Total cases of covid": "446,008"
       },
       "geometry": {
         "type": "Polygon",
@@ -4297,7 +4312,10 @@
         "Co2-Emissions": "375,908",
         "Country birth rate": 12.6,
         "Country armed force size": "58,000",
-        "Country agricultural land": "48.20%"
+        "Country agricultural land": "48.20%",
+        "Average IQ": 99,
+        "Daily consumption of oil barrels": 1114645,
+        "Total cases of covid": "11,295,446"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5298,7 +5316,10 @@
         "Co2-Emissions": "61,448",
         "Country birth rate": 9.7,
         "Country armed force size": "21,000",
-        "Country agricultural land": "32.40%"
+        "Country agricultural land": "32.40%",
+        "Average IQ": 99,
+        "Daily consumption of oil barrels": 262352,
+        "Total cases of covid": "5,780,229"
       },
       "geometry": {
         "type": "Polygon",
@@ -5477,7 +5498,9 @@
         "Co2-Emissions": "37,620",
         "Country birth rate": 14.0,
         "Country armed force size": "82,000",
-        "Country agricultural land": "57.70%"
+        "Country agricultural land": "57.70%",
+        "Daily consumption of oil barrels": 96000,
+        "Total cases of covid": "827,944"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -5690,7 +5713,9 @@
         "Co2-Emissions": "495",
         "Country birth rate": 39.01,
         "Country armed force size": "31,000",
-        "Country agricultural land": "79.20%"
+        "Country agricultural land": "79.20%",
+        "Daily consumption of oil barrels": 1499,
+        "Total cases of covid": "53,492"
       },
       "geometry": {
         "type": "Polygon",
@@ -5773,7 +5798,10 @@
         "Co2-Emissions": "96,889",
         "Country birth rate": 10.3,
         "Country armed force size": "32,000",
-        "Country agricultural land": "44.60%"
+        "Country agricultural land": "44.60%",
+        "Average IQ": 98,
+        "Daily consumption of oil barrels": 631522,
+        "Total cases of covid": "4,691,499"
       },
       "geometry": {
         "type": "Polygon",
@@ -5864,7 +5892,9 @@
         "Co2-Emissions": "6,476",
         "Country birth rate": 36.22,
         "Country armed force size": "12,000",
-        "Country agricultural land": "33.30%"
+        "Country agricultural land": "33.30%",
+        "Daily consumption of oil barrels": 36000,
+        "Total cases of covid": "27,989"
       },
       "geometry": {
         "type": "Polygon",
@@ -5995,7 +6025,9 @@
         "Co2-Emissions": "3,418",
         "Country birth rate": 37.93,
         "Country armed force size": "11,000",
-        "Country agricultural land": "44.20%"
+        "Country agricultural land": "44.20%",
+        "Daily consumption of oil barrels": 23000,
+        "Total cases of covid": "22,025"
       },
       "geometry": {
         "type": "Polygon",
@@ -6182,7 +6214,10 @@
         "Co2-Emissions": "84,246",
         "Country birth rate": 18.18,
         "Country armed force size": "221,000",
-        "Country agricultural land": "70.60%"
+        "Country agricultural land": "70.60%",
+        "Average IQ": 75,
+        "Daily consumption of oil barrels": 113000,
+        "Total cases of covid": "2,037,556"
       },
       "geometry": {
         "type": "Polygon",
@@ -6357,7 +6392,10 @@
         "Co2-Emissions": "41,708",
         "Country birth rate": 8.9,
         "Country armed force size": "31,000",
-        "Country agricultural land": "46.30%"
+        "Country agricultural land": "46.30%",
+        "Average IQ": 91,
+        "Daily consumption of oil barrels": 97000,
+        "Total cases of covid": "1,295,426"
       },
       "geometry": {
         "type": "Polygon",
@@ -6495,7 +6533,9 @@
         "Estimated population": 309156,
         "Length of the name": 7,
         "Number of terrorist attacks": 5,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Daily consumption of oil barrels": 20036,
+        "Total cases of covid": "37,491"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -6734,7 +6774,9 @@
         "Co2-Emissions": "58,280",
         "Country birth rate": 9.9,
         "Country armed force size": "155,000",
-        "Country agricultural land": "42.00%"
+        "Country agricultural land": "42.00%",
+        "Daily consumption of oil barrels": 137000,
+        "Total cases of covid": "994,037"
       },
       "geometry": {
         "type": "Polygon",
@@ -6940,7 +6982,9 @@
         "Co2-Emissions": "568",
         "Country birth rate": 20.79,
         "Country armed force size": "2,000",
-        "Country agricultural land": "7.00%"
+        "Country agricultural land": "7.00%",
+        "Daily consumption of oil barrels": 4001,
+        "Total cases of covid": "70,660"
       },
       "geometry": {
         "type": "Polygon",
@@ -7051,7 +7095,10 @@
         "Co2-Emissions": "21,606",
         "Country birth rate": 21.75,
         "Country armed force size": "71,000",
-        "Country agricultural land": "34.80%"
+        "Country agricultural land": "34.80%",
+        "Average IQ": 79,
+        "Daily consumption of oil barrels": 90000,
+        "Total cases of covid": "1,187,986"
       },
       "geometry": {
         "type": "Polygon",
@@ -7322,7 +7369,10 @@
         "Co2-Emissions": "462,299",
         "Country birth rate": 13.92,
         "Country armed force size": "730,000",
-        "Country agricultural land": "33.90%"
+        "Country agricultural land": "33.90%",
+        "Average IQ": 83,
+        "Daily consumption of oil barrels": 2984000,
+        "Total cases of covid": "36,824,580"
       },
       "geometry": {
         "type": "Polygon",
@@ -8164,7 +8214,9 @@
         "Co2-Emissions": "7,664",
         "Country birth rate": 14.9,
         "Country armed force size": "8,000",
-        "Country agricultural land": "2.70%"
+        "Country agricultural land": "2.70%",
+        "Average IQ": 88,
+        "Total cases of covid": "275,220"
       },
       "geometry": {
         "type": "Polygon",
@@ -8227,7 +8279,9 @@
         "Co2-Emissions": "1,261",
         "Country birth rate": 17.26,
         "Country armed force size": "6,000",
-        "Country agricultural land": "13.60%"
+        "Country agricultural land": "13.60%",
+        "Daily consumption of oil barrels": 3001,
+        "Total cases of covid": "62,605"
       },
       "geometry": {
         "type": "Polygon",
@@ -8310,7 +8364,9 @@
         "Co2-Emissions": "6,340",
         "Country birth rate": 24.82,
         "Country armed force size": "9,000",
-        "Country agricultural land": "45.60%"
+        "Country agricultural land": "45.60%",
+        "Daily consumption of oil barrels": 21000,
+        "Total cases of covid": "329,227"
       },
       "geometry": {
         "type": "Polygon",
@@ -8775,7 +8831,10 @@
         "Co2-Emissions": "544,894",
         "Country birth rate": 10.1,
         "Country armed force size": "72,000",
-        "Country agricultural land": "6.90%"
+        "Country agricultural land": "6.90%",
+        "Average IQ": 100,
+        "Daily consumption of oil barrels": 2486301,
+        "Total cases of covid": "4,550,256"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12092,7 +12151,10 @@
         "Co2-Emissions": "34,477",
         "Country birth rate": 10.0,
         "Country armed force size": "21,000",
-        "Country agricultural land": "38.40%"
+        "Country agricultural land": "38.40%",
+        "Average IQ": 100,
+        "Daily consumption of oil barrels": 228194,
+        "Total cases of covid": "4,385,701"
       },
       "geometry": {
         "type": "Polygon",
@@ -12219,7 +12281,10 @@
         "Co2-Emissions": "85,822",
         "Country birth rate": 12.43,
         "Country armed force size": "122,000",
-        "Country agricultural land": "21.20%"
+        "Country agricultural land": "21.20%",
+        "Average IQ": 88,
+        "Daily consumption of oil barrels": 351989,
+        "Total cases of covid": "5,118,981"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12712,7 +12777,10 @@
         "Co2-Emissions": "9,893,038",
         "Country birth rate": 10.9,
         "Country armed force size": "2,695,000",
-        "Country agricultural land": "56.20%"
+        "Country agricultural land": "56.20%",
+        "Average IQ": 104,
+        "Daily consumption of oil barrels": 12791553,
+        "Total cases of covid": "503,302"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13693,7 +13761,7 @@
       "properties": {
         "type": "Sovereign country",
         "adm0_a3": "CIV",
-        "name": "C\u00c3\u00b4te d'Ivoire",
+        "name": "CÃ´te d'Ivoire",
         "formal_en": "Republic of Ivory Coast",
         "lastcensus": 1998,
         "economy": "6. Developing region",
@@ -13919,7 +13987,10 @@
         "Co2-Emissions": "8,291",
         "Country birth rate": 35.39,
         "Country armed force size": "24,000",
-        "Country agricultural land": "20.60%"
+        "Country agricultural land": "20.60%",
+        "Average IQ": 67,
+        "Daily consumption of oil barrels": 40000,
+        "Total cases of covid": "123,993"
       },
       "geometry": {
         "type": "Polygon",
@@ -14703,7 +14774,10 @@
         "Estimated population": 4012809,
         "Length of the name": 5,
         "Number of terrorist attacks": 0,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Average IQ": 64,
+        "Daily consumption of oil barrels": 17000,
+        "Total cases of covid": "25,375"
       },
       "geometry": {
         "type": "Polygon",
@@ -14930,7 +15004,10 @@
         "Co2-Emissions": "97,814",
         "Country birth rate": 14.88,
         "Country armed force size": "481,000",
-        "Country agricultural land": "40.30%"
+        "Country agricultural land": "40.30%",
+        "Average IQ": 83,
+        "Daily consumption of oil barrels": 357000,
+        "Total cases of covid": "6,356,309"
       },
       "geometry": {
         "type": "Polygon",
@@ -15361,7 +15438,10 @@
         "Co2-Emissions": "8,023",
         "Country birth rate": 13.97,
         "Country armed force size": "10,000",
-        "Country agricultural land": "34.50%"
+        "Country agricultural land": "34.50%",
+        "Average IQ": 88,
+        "Daily consumption of oil barrels": 55000,
+        "Total cases of covid": "1,186,176"
       },
       "geometry": {
         "type": "Polygon",
@@ -15535,7 +15615,10 @@
         "Co2-Emissions": "28,284",
         "Country birth rate": 10.17,
         "Country armed force size": "76,000",
-        "Country agricultural land": "59.90%"
+        "Country agricultural land": "59.90%",
+        "Average IQ": 84,
+        "Daily consumption of oil barrels": 153000,
+        "Total cases of covid": "1,112,438"
       },
       "geometry": {
         "type": "Polygon",
@@ -15824,7 +15907,9 @@
         "Co2-Emissions": "6,626",
         "Country birth rate": 10.46,
         "Country armed force size": "16,000",
-        "Country agricultural land": "12.20%"
+        "Country agricultural land": "12.20%",
+        "Daily consumption of oil barrels": 52000,
+        "Total cases of covid": "642,663"
       },
       "geometry": {
         "type": "Polygon",
@@ -16081,7 +16166,10 @@
         "Co2-Emissions": "727,973",
         "Country birth rate": 9.5,
         "Country armed force size": "180,000",
-        "Country agricultural land": "47.70%"
+        "Country agricultural land": "47.70%",
+        "Average IQ": 100,
+        "Daily consumption of oil barrels": 2383393,
+        "Total cases of covid": "37,779,833"
       },
       "geometry": {
         "type": "Polygon",
@@ -16343,7 +16431,8 @@
         "Co2-Emissions": "620",
         "Country birth rate": 21.47,
         "Country armed force size": "13,000",
-        "Country agricultural land": "73.40%"
+        "Country agricultural land": "73.40%",
+        "Total cases of covid": "15,690"
       },
       "geometry": {
         "type": "Polygon",
@@ -16434,7 +16523,10 @@
         "Co2-Emissions": "31,786",
         "Country birth rate": 10.6,
         "Country armed force size": "15,000",
-        "Country agricultural land": "62.00%"
+        "Country agricultural land": "62.00%",
+        "Average IQ": 98,
+        "Daily consumption of oil barrels": 158194,
+        "Total cases of covid": "3,173,247"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16697,7 +16789,10 @@
         "Co2-Emissions": "150,006",
         "Country birth rate": 24.28,
         "Country armed force size": "317,000",
-        "Country agricultural land": "17.40%"
+        "Country agricultural land": "17.40%",
+        "Average IQ": 77,
+        "Daily consumption of oil barrels": 429000,
+        "Total cases of covid": "271,378"
       },
       "geometry": {
         "type": "Polygon",
@@ -16976,7 +17071,10 @@
         "Co2-Emissions": "41,155",
         "Country birth rate": 19.72,
         "Country armed force size": "41,000",
-        "Country agricultural land": "22.20%"
+        "Country agricultural land": "22.20%",
+        "Average IQ": 79,
+        "Daily consumption of oil barrels": 259000,
+        "Total cases of covid": "1,051,239"
       },
       "geometry": {
         "type": "Polygon",
@@ -17139,7 +17237,10 @@
         "Co2-Emissions": "238,560",
         "Country birth rate": 26.38,
         "Country armed force size": "836,000",
-        "Country agricultural land": "3.80%"
+        "Country agricultural land": "3.80%",
+        "Average IQ": 78,
+        "Daily consumption of oil barrels": 877000,
+        "Total cases of covid": "515,645"
       },
       "geometry": {
         "type": "Polygon",
@@ -17337,7 +17438,8 @@
         "Co2-Emissions": "711",
         "Country birth rate": 30.3,
         "Country armed force size": "202,000",
-        "Country agricultural land": "75.20%"
+        "Country agricultural land": "75.20%",
+        "Total cases of covid": "10,189"
       },
       "geometry": {
         "type": "Polygon",
@@ -17480,7 +17582,10 @@
         "Co2-Emissions": "244,002",
         "Country birth rate": 7.9,
         "Country armed force size": "196,000",
-        "Country agricultural land": "52.60%"
+        "Country agricultural land": "52.60%",
+        "Average IQ": 95,
+        "Daily consumption of oil barrels": 1290063,
+        "Total cases of covid": "13,731,478"
       },
       "geometry": {
         "type": "Polygon",
@@ -17715,7 +17820,10 @@
         "Co2-Emissions": "16,590",
         "Country birth rate": 10.9,
         "Country armed force size": "6,000",
-        "Country agricultural land": "23.10%"
+        "Country agricultural land": "23.10%",
+        "Average IQ": 100,
+        "Daily consumption of oil barrels": 28855,
+        "Total cases of covid": "613,891"
       },
       "geometry": {
         "type": "Polygon",
@@ -17814,7 +17922,10 @@
         "Co2-Emissions": "14,870",
         "Country birth rate": 32.34,
         "Country armed force size": "138,000",
-        "Country agricultural land": "36.30%"
+        "Country agricultural land": "36.30%",
+        "Average IQ": 67,
+        "Daily consumption of oil barrels": 74000,
+        "Total cases of covid": "499,531"
       },
       "geometry": {
         "type": "Polygon",
@@ -18081,7 +18192,10 @@
         "Co2-Emissions": "45,871",
         "Country birth rate": 8.6,
         "Country armed force size": "25,000",
-        "Country agricultural land": "7.50%"
+        "Country agricultural land": "7.50%",
+        "Average IQ": 101,
+        "Daily consumption of oil barrels": 210030,
+        "Total cases of covid": "1,458,619"
       },
       "geometry": {
         "type": "Polygon",
@@ -18263,7 +18377,9 @@
         "Co2-Emissions": "2,046",
         "Country birth rate": 21.28,
         "Country armed force size": "4,000",
-        "Country agricultural land": "23.30%"
+        "Country agricultural land": "23.30%",
+        "Daily consumption of oil barrels": 16000,
+        "Total cases of covid": "68,820"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18458,7 +18574,10 @@
         "Co2-Emissions": "303,276",
         "Country birth rate": 11.3,
         "Country armed force size": "307,000",
-        "Country agricultural land": "52.40%"
+        "Country agricultural land": "52.40%",
+        "Average IQ": 97,
+        "Daily consumption of oil barrels": 1705568,
+        "Total cases of covid": "39,524,311"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18795,7 +18914,9 @@
         "Co2-Emissions": "5,321",
         "Country birth rate": 31.61,
         "Country armed force size": "7,000",
-        "Country agricultural land": "20.00%"
+        "Country agricultural land": "20.00%",
+        "Daily consumption of oil barrels": 21000,
+        "Total cases of covid": "48,981"
       },
       "geometry": {
         "type": "Polygon",
@@ -18950,7 +19071,9 @@
         "Co2-Emissions": "379,025",
         "Country birth rate": 11.0,
         "Country armed force size": "148,000",
-        "Country agricultural land": "71.70%"
+        "Country agricultural land": "71.70%",
+        "Average IQ": 99,
+        "Daily consumption of oil barrels": 1583896
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19211,7 +19334,10 @@
         "Co2-Emissions": "10,128",
         "Country birth rate": 13.47,
         "Country armed force size": "26,000",
-        "Country agricultural land": "34.50%"
+        "Country agricultural land": "34.50%",
+        "Average IQ": 86,
+        "Daily consumption of oil barrels": 33000,
+        "Total cases of covid": "1,814,180"
       },
       "geometry": {
         "type": "Polygon",
@@ -19338,7 +19464,10 @@
         "Co2-Emissions": "16,670",
         "Country birth rate": 29.41,
         "Country armed force size": "16,000",
-        "Country agricultural land": "69.00%"
+        "Country agricultural land": "69.00%",
+        "Average IQ": 61,
+        "Daily consumption of oil barrels": 88000,
+        "Total cases of covid": "171,112"
       },
       "geometry": {
         "type": "Polygon",
@@ -19469,7 +19598,9 @@
         "Co2-Emissions": "2,996",
         "Country birth rate": 36.36,
         "Country armed force size": "13,000",
-        "Country agricultural land": "59.00%"
+        "Country agricultural land": "59.00%",
+        "Daily consumption of oil barrels": 19001,
+        "Total cases of covid": "38,240"
       },
       "geometry": {
         "type": "Polygon",
@@ -19776,7 +19907,10 @@
         "Length of the name": 6,
         "GDP per capita": 0.308,
         "Number of terrorist attacks": 3,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Average IQ": 55,
+        "Daily consumption of oil barrels": 3800,
+        "Total cases of covid": "12,586"
       },
       "geometry": {
         "type": "Polygon",
@@ -19870,7 +20004,8 @@
         "Co2-Emissions": "293",
         "Country birth rate": 35.13,
         "Country armed force size": "4,000",
-        "Country agricultural land": "58.00%"
+        "Country agricultural land": "58.00%",
+        "Total cases of covid": "8,947"
       },
       "geometry": {
         "type": "Polygon",
@@ -20031,7 +20166,10 @@
         "Co2-Emissions": "62,434",
         "Country birth rate": 8.1,
         "Country armed force size": "146,000",
-        "Country agricultural land": "47.60%"
+        "Country agricultural land": "47.60%",
+        "Average IQ": 91,
+        "Daily consumption of oil barrels": 296101,
+        "Total cases of covid": "5,708,301"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -20279,7 +20417,8 @@
         "Estimated population": 57600,
         "Length of the name": 9,
         "Number of terrorist attacks": 0,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Total cases of covid": "11,971"
       },
       "geometry": {
         "type": "Polygon",
@@ -20838,7 +20977,10 @@
         "Co2-Emissions": "16,777",
         "Country birth rate": 24.56,
         "Country armed force size": "43,000",
-        "Country agricultural land": "36.00%"
+        "Country agricultural land": "36.00%",
+        "Average IQ": 55,
+        "Daily consumption of oil barrels": 93000,
+        "Total cases of covid": "1,227,853"
       },
       "geometry": {
         "type": "Polygon",
@@ -21008,7 +21150,9 @@
         "Co2-Emissions": "2,384",
         "Country birth rate": 19.97,
         "Country armed force size": "3,000",
-        "Country agricultural land": "8.60%"
+        "Country agricultural land": "8.60%",
+        "Daily consumption of oil barrels": 14000,
+        "Total cases of covid": "72,950"
       },
       "geometry": {
         "type": "Polygon",
@@ -21199,7 +21343,9 @@
         "Co2-Emissions": "9,813",
         "Country birth rate": 21.6,
         "Country armed force size": "23,000",
-        "Country agricultural land": "28.90%"
+        "Country agricultural land": "28.90%",
+        "Daily consumption of oil barrels": 58000,
+        "Total cases of covid": "470,757"
       },
       "geometry": {
         "type": "Polygon",
@@ -21458,7 +21604,10 @@
         "Co2-Emissions": "17,488",
         "Country birth rate": 9.0,
         "Country armed force size": "18,000",
-        "Country agricultural land": "27.60%"
+        "Country agricultural land": "27.60%",
+        "Average IQ": 95,
+        "Daily consumption of oil barrels": 69000,
+        "Total cases of covid": "1,267,580"
       },
       "geometry": {
         "type": "Polygon",
@@ -21657,7 +21806,9 @@
         "Co2-Emissions": "2,978",
         "Country birth rate": 24.35,
         "Country armed force size": "0",
-        "Country agricultural land": "66.80%"
+        "Country agricultural land": "66.80%",
+        "Daily consumption of oil barrels": 23000,
+        "Total cases of covid": "34,076"
       },
       "geometry": {
         "type": "Polygon",
@@ -21772,7 +21923,10 @@
         "Co2-Emissions": "45,537",
         "Country birth rate": 9.6,
         "Country armed force size": "40,000",
-        "Country agricultural land": "58.40%"
+        "Country agricultural land": "58.40%",
+        "Average IQ": 99,
+        "Daily consumption of oil barrels": 155544,
+        "Total cases of covid": "2,192,447"
       },
       "geometry": {
         "type": "Polygon",
@@ -21927,7 +22081,10 @@
         "Co2-Emissions": "563,325",
         "Country birth rate": 18.07,
         "Country armed force size": "676,000",
-        "Country agricultural land": "31.50%"
+        "Country agricultural land": "31.50%",
+        "Average IQ": 80,
+        "Daily consumption of oil barrels": 1623000,
+        "Total cases of covid": "6,730,289"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -23008,7 +23165,10 @@
         "Co2-Emissions": "2,407,672",
         "Country birth rate": 17.86,
         "Country armed force size": "3,031,000",
-        "Country agricultural land": "60.40%"
+        "Country agricultural land": "60.40%",
+        "Average IQ": 77,
+        "Daily consumption of oil barrels": 4443000,
+        "Total cases of covid": "44,682,784"
       },
       "geometry": {
         "type": "Polygon",
@@ -23579,7 +23739,10 @@
         "Length of the name": 7,
         "GDP per capita": 1.499,
         "Number of terrorist attacks": 307,
-        "Number of university in the top 1000 worldwide": 16
+        "Number of university in the top 1000 worldwide": 16,
+        "Average IQ": 95,
+        "Daily consumption of oil barrels": 152404,
+        "Total cases of covid": "1,700,253"
       },
       "geometry": {
         "type": "Polygon",
@@ -23662,7 +23825,10 @@
         "Co2-Emissions": "661,710",
         "Country birth rate": 18.78,
         "Country armed force size": "563,000",
-        "Country agricultural land": "28.20%"
+        "Country agricultural land": "28.20%",
+        "Average IQ": 81,
+        "Daily consumption of oil barrels": 1803999,
+        "Total cases of covid": "7,564,350"
       },
       "geometry": {
         "type": "Polygon",
@@ -23993,7 +24159,10 @@
         "Co2-Emissions": "190,061",
         "Country birth rate": 29.08,
         "Country armed force size": "209,000",
-        "Country agricultural land": "21.40%"
+        "Country agricultural land": "21.40%",
+        "Average IQ": 88,
+        "Daily consumption of oil barrels": 857000,
+        "Total cases of covid": "2,465,545"
       },
       "geometry": {
         "type": "Polygon",
@@ -24144,7 +24313,10 @@
         "Co2-Emissions": "2,065",
         "Country birth rate": 12.0,
         "Country armed force size": "0",
-        "Country agricultural land": "18.70%"
+        "Country agricultural land": "18.70%",
+        "Average IQ": 99,
+        "Daily consumption of oil barrels": 19090,
+        "Total cases of covid": "208,688"
       },
       "geometry": {
         "type": "Polygon",
@@ -24255,7 +24427,10 @@
         "Co2-Emissions": "65,166",
         "Country birth rate": 20.8,
         "Country armed force size": "178,000",
-        "Country agricultural land": "24.60%"
+        "Country agricultural land": "24.60%",
+        "Average IQ": 93,
+        "Daily consumption of oil barrels": 236249,
+        "Total cases of covid": "4,786,189"
       },
       "geometry": {
         "type": "Polygon",
@@ -24378,7 +24553,10 @@
         "Co2-Emissions": "320,411",
         "Country birth rate": 7.3,
         "Country armed force size": "347,000",
-        "Country agricultural land": "43.20%"
+        "Country agricultural land": "43.20%",
+        "Average IQ": 95,
+        "Daily consumption of oil barrels": 1236628,
+        "Total cases of covid": "25,453,789"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -24767,7 +24945,9 @@
         "Co2-Emissions": "8,225",
         "Country birth rate": 16.1,
         "Country armed force size": "4,000",
-        "Country agricultural land": "41.00%"
+        "Country agricultural land": "41.00%",
+        "Daily consumption of oil barrels": 54000,
+        "Total cases of covid": "153,407"
       },
       "geometry": {
         "type": "Polygon",
@@ -24842,7 +25022,9 @@
         "Co2-Emissions": "25,108",
         "Country birth rate": 21.98,
         "Country armed force size": "116,000",
-        "Country agricultural land": "12.00%"
+        "Country agricultural land": "12.00%",
+        "Daily consumption of oil barrels": 114000,
+        "Total cases of covid": "1,746,997"
       },
       "geometry": {
         "type": "Polygon",
@@ -24949,7 +25131,10 @@
         "Co2-Emissions": "1,135,886",
         "Country birth rate": 7.4,
         "Country armed force size": "261,000",
-        "Country agricultural land": "12.30%"
+        "Country agricultural land": "12.30%",
+        "Average IQ": 106,
+        "Daily consumption of oil barrels": 4012877,
+        "Total cases of covid": "32,588,442"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -25250,7 +25435,10 @@
         "Co2-Emissions": "247,207",
         "Country birth rate": 21.77,
         "Country armed force size": "71,000",
-        "Country agricultural land": "80.40%"
+        "Country agricultural land": "80.40%",
+        "Average IQ": 89,
+        "Daily consumption of oil barrels": 325000,
+        "Total cases of covid": "1,405,917"
       },
       "geometry": {
         "type": "Polygon",
@@ -25729,7 +25917,10 @@
         "Co2-Emissions": "17,910",
         "Country birth rate": 28.75,
         "Country armed force size": "29,000",
-        "Country agricultural land": "48.50%"
+        "Country agricultural land": "48.50%",
+        "Average IQ": 74,
+        "Daily consumption of oil barrels": 114000,
+        "Total cases of covid": "342,810"
       },
       "geometry": {
         "type": "Polygon",
@@ -25908,7 +26099,9 @@
         "Co2-Emissions": "9,787",
         "Country birth rate": 27.1,
         "Country armed force size": "21,000",
-        "Country agricultural land": "55.00%"
+        "Country agricultural land": "55.00%",
+        "Daily consumption of oil barrels": 40000,
+        "Total cases of covid": "206,592"
       },
       "geometry": {
         "type": "Polygon",
@@ -26079,7 +26272,10 @@
         "Co2-Emissions": "9,919",
         "Country birth rate": 22.46,
         "Country armed force size": "191,000",
-        "Country agricultural land": "30.90%"
+        "Country agricultural land": "30.90%",
+        "Average IQ": 97,
+        "Daily consumption of oil barrels": 48000,
+        "Total cases of covid": "138,693"
       },
       "geometry": {
         "type": "Polygon",
@@ -26391,7 +26587,10 @@
         "Co2-Emissions": "98,734",
         "Country birth rate": 13.94,
         "Country armed force size": "25,000",
-        "Country agricultural land": "8.40%"
+        "Country agricultural land": "8.40%",
+        "Average IQ": 80,
+        "Daily consumption of oil barrels": 359000,
+        "Total cases of covid": "662,858"
       },
       "geometry": {
         "type": "Polygon",
@@ -26632,7 +26831,9 @@
         "Co2-Emissions": "24,796",
         "Country birth rate": 17.55,
         "Country armed force size": "80,000",
-        "Country agricultural land": "64.30%"
+        "Country agricultural land": "64.30%",
+        "Daily consumption of oil barrels": 153000,
+        "Total cases of covid": "1,228,639"
       },
       "geometry": {
         "type": "Polygon",
@@ -26707,7 +26908,9 @@
         "Co2-Emissions": "1,386",
         "Country birth rate": 33.04,
         "Country armed force size": "2,000",
-        "Country agricultural land": "28.00%"
+        "Country agricultural land": "28.00%",
+        "Daily consumption of oil barrels": 8000,
+        "Total cases of covid": "8,062"
       },
       "geometry": {
         "type": "Polygon",
@@ -26846,7 +27049,9 @@
         "Co2-Emissions": "50,564",
         "Country birth rate": 18.83,
         "Country armed force size": "0",
-        "Country agricultural land": "8.70%"
+        "Country agricultural land": "8.70%",
+        "Daily consumption of oil barrels": 223000,
+        "Total cases of covid": "507,162"
       },
       "geometry": {
         "type": "Polygon",
@@ -27101,7 +27306,10 @@
         "Co2-Emissions": "23,362",
         "Country birth rate": 15.83,
         "Country armed force size": "317,000",
-        "Country agricultural land": "43.70%"
+        "Country agricultural land": "43.70%",
+        "Average IQ": 85,
+        "Daily consumption of oil barrels": 127000,
+        "Total cases of covid": "671,989"
       },
       "geometry": {
         "type": "Polygon",
@@ -27172,7 +27380,9 @@
         "Co2-Emissions": "2,512",
         "Country birth rate": 26.81,
         "Country armed force size": "2,000",
-        "Country agricultural land": "77.60%"
+        "Country agricultural land": "77.60%",
+        "Daily consumption of oil barrels": 5001,
+        "Total cases of covid": "34,790"
       },
       "geometry": {
         "type": "Polygon",
@@ -27251,7 +27461,10 @@
         "Co2-Emissions": "12,963",
         "Country birth rate": 10.0,
         "Country armed force size": "34,000",
-        "Country agricultural land": "47.20%"
+        "Country agricultural land": "47.20%",
+        "Average IQ": 95,
+        "Daily consumption of oil barrels": 61612,
+        "Total cases of covid": "1,296,865"
       },
       "geometry": {
         "type": "Polygon",
@@ -27358,7 +27571,10 @@
         "Co2-Emissions": "8,988",
         "Country birth rate": 10.3,
         "Country armed force size": "2,000",
-        "Country agricultural land": "53.70%"
+        "Country agricultural land": "53.70%",
+        "Average IQ": 100,
+        "Daily consumption of oil barrels": 56194,
+        "Total cases of covid": "297,757"
       },
       "geometry": {
         "type": "Polygon",
@@ -27417,7 +27633,9 @@
         "Co2-Emissions": "7,004",
         "Country birth rate": 10.0,
         "Country armed force size": "6,000",
-        "Country agricultural land": "31.10%"
+        "Country agricultural land": "31.10%",
+        "Daily consumption of oil barrels": 37694,
+        "Total cases of covid": "975,355"
       },
       "geometry": {
         "type": "Polygon",
@@ -27536,7 +27754,10 @@
         "Co2-Emissions": "61,276",
         "Country birth rate": 18.94,
         "Country armed force size": "246,000",
-        "Country agricultural land": "68.50%"
+        "Country agricultural land": "68.50%",
+        "Average IQ": 71,
+        "Daily consumption of oil barrels": 275000,
+        "Total cases of covid": "1,272,240"
       },
       "geometry": {
         "type": "Polygon",
@@ -27823,7 +28044,9 @@
         "Co2-Emissions": "5,115",
         "Country birth rate": 10.1,
         "Country armed force size": "7,000",
-        "Country agricultural land": "74.20%"
+        "Country agricultural land": "74.20%",
+        "Daily consumption of oil barrels": 18001,
+        "Total cases of covid": "598,673"
       },
       "geometry": {
         "type": "Polygon",
@@ -27962,7 +28185,9 @@
         "Co2-Emissions": "3,905",
         "Country birth rate": 32.66,
         "Country armed force size": "22,000",
-        "Country agricultural land": "71.20%"
+        "Country agricultural land": "71.20%",
+        "Daily consumption of oil barrels": 18000,
+        "Total cases of covid": "67,827"
       },
       "geometry": {
         "type": "Polygon",
@@ -28189,7 +28414,10 @@
         "Co2-Emissions": "486,406",
         "Country birth rate": 17.6,
         "Country armed force size": "336,000",
-        "Country agricultural land": "54.60%"
+        "Country agricultural land": "54.60%",
+        "Average IQ": 87,
+        "Daily consumption of oil barrels": 2052607,
+        "Total cases of covid": "7,368,252"
       },
       "geometry": {
         "type": "Polygon",
@@ -28994,7 +29222,9 @@
         "Co2-Emissions": "3,179",
         "Country birth rate": 41.54,
         "Country armed force size": "18,000",
-        "Country agricultural land": "33.80%"
+        "Country agricultural land": "33.80%",
+        "Daily consumption of oil barrels": 21999,
+        "Total cases of covid": "32,783"
       },
       "geometry": {
         "type": "Polygon",
@@ -29329,7 +29559,10 @@
         "Co2-Emissions": "25,280",
         "Country birth rate": 17.55,
         "Country armed force size": "513,000",
-        "Country agricultural land": "19.50%"
+        "Country agricultural land": "19.50%",
+        "Average IQ": 89,
+        "Daily consumption of oil barrels": 123000,
+        "Total cases of covid": "633,820"
       },
       "geometry": {
         "type": "Polygon",
@@ -29640,7 +29873,10 @@
         "Co2-Emissions": "2,017",
         "Country birth rate": 11.73,
         "Country armed force size": "12,000",
-        "Country agricultural land": "19.00%"
+        "Country agricultural land": "19.00%",
+        "Average IQ": 85,
+        "Daily consumption of oil barrels": 7000,
+        "Total cases of covid": "286,355"
       },
       "geometry": {
         "type": "Polygon",
@@ -29743,7 +29979,10 @@
         "Co2-Emissions": "25,368",
         "Country birth rate": 24.13,
         "Country armed force size": "18,000",
-        "Country agricultural land": "71.50%"
+        "Country agricultural land": "71.50%",
+        "Average IQ": 93,
+        "Daily consumption of oil barrels": 21000,
+        "Total cases of covid": "1,007,871"
       },
       "geometry": {
         "type": "Polygon",
@@ -30074,7 +30313,9 @@
         "Co2-Emissions": "7,943",
         "Country birth rate": 37.52,
         "Country armed force size": "11,000",
-        "Country agricultural land": "63.50%"
+        "Country agricultural land": "63.50%",
+        "Daily consumption of oil barrels": 40000,
+        "Total cases of covid": "231,994"
       },
       "geometry": {
         "type": "Polygon",
@@ -30413,7 +30654,8 @@
         "Co2-Emissions": "2,739",
         "Country birth rate": 33.69,
         "Country armed force size": "21,000",
-        "Country agricultural land": "38.50%"
+        "Country agricultural land": "38.50%",
+        "Total cases of covid": "63,665"
       },
       "geometry": {
         "type": "Polygon",
@@ -30600,7 +30842,9 @@
         "Co2-Emissions": "1,298",
         "Country birth rate": 34.12,
         "Country armed force size": "15,000",
-        "Country agricultural land": "61.40%"
+        "Country agricultural land": "61.40%",
+        "Daily consumption of oil barrels": 6001,
+        "Total cases of covid": "88,559"
       },
       "geometry": {
         "type": "Polygon",
@@ -30743,7 +30987,10 @@
         "Co2-Emissions": "248,289",
         "Country birth rate": 16.75,
         "Country armed force size": "136,000",
-        "Country agricultural land": "26.30%"
+        "Country agricultural land": "26.30%",
+        "Average IQ": 89,
+        "Daily consumption of oil barrels": 708000,
+        "Total cases of covid": "5,036,593"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -31028,7 +31275,9 @@
         "Co2-Emissions": "4,228",
         "Country birth rate": 28.64,
         "Country armed force size": "16,000",
-        "Country agricultural land": "47.10%"
+        "Country agricultural land": "47.10%",
+        "Daily consumption of oil barrels": 26000,
+        "Total cases of covid": "170,741"
       },
       "geometry": {
         "type": "Polygon",
@@ -31230,7 +31479,9 @@
         "Estimated population": 227436,
         "Length of the name": 13,
         "Number of terrorist attacks": 31,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Daily consumption of oil barrels": 20000,
+        "Total cases of covid": "79,845"
       },
       "geometry": {
         "type": "Polygon",
@@ -31313,7 +31564,9 @@
         "Co2-Emissions": "2,017",
         "Country birth rate": 46.08,
         "Country armed force size": "10,000",
-        "Country agricultural land": "36.10%"
+        "Country agricultural land": "36.10%",
+        "Average IQ": 69,
+        "Total cases of covid": "9,931"
       },
       "geometry": {
         "type": "Polygon",
@@ -31576,7 +31829,10 @@
         "Co2-Emissions": "120,369",
         "Country birth rate": 37.91,
         "Country armed force size": "215,000",
-        "Country agricultural land": "77.70%"
+        "Country agricultural land": "77.70%",
+        "Average IQ": 68,
+        "Daily consumption of oil barrels": 428000,
+        "Total cases of covid": "266,463"
       },
       "geometry": {
         "type": "Polygon",
@@ -31839,7 +32095,9 @@
         "Co2-Emissions": "5,592",
         "Country birth rate": 20.64,
         "Country armed force size": "12,000",
-        "Country agricultural land": "42.10%"
+        "Country agricultural land": "42.10%",
+        "Daily consumption of oil barrels": 37000,
+        "Total cases of covid": "18,491"
       },
       "geometry": {
         "type": "Polygon",
@@ -32078,7 +32336,10 @@
         "Co2-Emissions": "170,780",
         "Country birth rate": 9.7,
         "Country armed force size": "41,000",
-        "Country agricultural land": "53.30%"
+        "Country agricultural land": "53.30%",
+        "Average IQ": 101,
+        "Daily consumption of oil barrels": 937098,
+        "Total cases of covid": "8,582,500"
       },
       "geometry": {
         "type": "Polygon",
@@ -32165,7 +32426,10 @@
         "Co2-Emissions": "41,023",
         "Country birth rate": 10.4,
         "Country armed force size": "23,000",
-        "Country agricultural land": "2.70%"
+        "Country agricultural land": "2.70%",
+        "Average IQ": 98,
+        "Daily consumption of oil barrels": 204090,
+        "Total cases of covid": "1,477,856"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -32562,7 +32826,10 @@
         "Co2-Emissions": "9,105",
         "Country birth rate": 19.89,
         "Country armed force size": "112,000",
-        "Country agricultural land": "28.70%"
+        "Country agricultural land": "28.70%",
+        "Average IQ": 51,
+        "Daily consumption of oil barrels": 43000,
+        "Total cases of covid": "1,001,102"
       },
       "geometry": {
         "type": "Polygon",
@@ -32685,7 +32952,10 @@
         "Co2-Emissions": "34,382",
         "Country birth rate": 11.98,
         "Country armed force size": "9,000",
-        "Country agricultural land": "40.50%"
+        "Country agricultural land": "40.50%",
+        "Average IQ": 99,
+        "Daily consumption of oil barrels": 166913,
+        "Total cases of covid": "2,182,355"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -32985,7 +33255,10 @@
         "Co2-Emissions": "63,457",
         "Country birth rate": 19.19,
         "Country armed force size": "47,000",
-        "Country agricultural land": "4.60%"
+        "Country agricultural land": "4.60%",
+        "Average IQ": 80,
+        "Daily consumption of oil barrels": 183000,
+        "Total cases of covid": "399,449"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -33210,7 +33483,10 @@
         "Co2-Emissions": "201,150",
         "Country birth rate": 28.25,
         "Country armed force size": "936,000",
-        "Country agricultural land": "47.80%"
+        "Country agricultural land": "47.80%",
+        "Average IQ": 81,
+        "Daily consumption of oil barrels": 556000,
+        "Total cases of covid": "1,576,313"
       },
       "geometry": {
         "type": "Polygon",
@@ -33505,7 +33781,9 @@
         "Co2-Emissions": "10,715",
         "Country birth rate": 18.98,
         "Country armed force size": "26,000",
-        "Country agricultural land": "30.40%"
+        "Country agricultural land": "30.40%",
+        "Daily consumption of oil barrels": 155000,
+        "Total cases of covid": "1,029,701"
       },
       "geometry": {
         "type": "Polygon",
@@ -33744,7 +34022,9 @@
         "Co2-Emissions": "57,414",
         "Country birth rate": 17.95,
         "Country armed force size": "158,000",
-        "Country agricultural land": "18.50%"
+        "Country agricultural land": "18.50%",
+        "Daily consumption of oil barrels": 246000,
+        "Total cases of covid": "4,481,621"
       },
       "geometry": {
         "type": "Polygon",
@@ -34079,7 +34359,10 @@
         "Co2-Emissions": "122,287",
         "Country birth rate": 20.55,
         "Country armed force size": "153,000",
-        "Country agricultural land": "41.70%"
+        "Country agricultural land": "41.70%",
+        "Average IQ": 83,
+        "Daily consumption of oil barrels": 429000,
+        "Total cases of covid": "4,073,454"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -34575,7 +34858,9 @@
         "Co2-Emissions": "7,536",
         "Country birth rate": 27.07,
         "Country armed force size": "4,000",
-        "Country agricultural land": "2.60%"
+        "Country agricultural land": "2.60%",
+        "Daily consumption of oil barrels": 37001,
+        "Total cases of covid": "46,750"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -34944,7 +35229,10 @@
         "Co2-Emissions": "299,037",
         "Country birth rate": 10.2,
         "Country armed force size": "191,000",
-        "Country agricultural land": "46.90%"
+        "Country agricultural land": "46.90%",
+        "Average IQ": 96,
+        "Daily consumption of oil barrels": 582161,
+        "Total cases of covid": "6,380,225"
       },
       "geometry": {
         "type": "Polygon",
@@ -35150,7 +35438,8 @@
         "Estimated population": 3971020,
         "Length of the name": 11,
         "Number of terrorist attacks": 0,
-        "Number of university in the top 1000 worldwide": 2
+        "Number of university in the top 1000 worldwide": 2,
+        "Daily consumption of oil barrels": 96746
       },
       "geometry": {
         "type": "Polygon",
@@ -35415,7 +35704,10 @@
         "Co2-Emissions": "48,742",
         "Country birth rate": 8.5,
         "Country armed force size": "52,000",
-        "Country agricultural land": "39.50%"
+        "Country agricultural land": "39.50%",
+        "Average IQ": 93,
+        "Daily consumption of oil barrels": 236866,
+        "Total cases of covid": "5,563,907"
       },
       "geometry": {
         "type": "Polygon",
@@ -35578,7 +35870,9 @@
         "Co2-Emissions": "7,407",
         "Country birth rate": 20.57,
         "Country armed force size": "27,000",
-        "Country agricultural land": "55.10%"
+        "Country agricultural land": "55.10%",
+        "Daily consumption of oil barrels": 51000,
+        "Total cases of covid": "806,256"
       },
       "geometry": {
         "type": "Polygon",
@@ -35736,7 +36030,8 @@
         "Estimated population": 4119083,
         "Length of the name": 9,
         "Number of terrorist attacks": 0,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Total cases of covid": "621,008"
       },
       "geometry": {
         "type": "Polygon",
@@ -35803,7 +36098,10 @@
         "Co2-Emissions": "103,259",
         "Country birth rate": 9.54,
         "Country armed force size": "22,000",
-        "Country agricultural land": "5.80%"
+        "Country agricultural land": "5.80%",
+        "Average IQ": 80,
+        "Daily consumption of oil barrels": 172000,
+        "Total cases of covid": "492,534"
       },
       "geometry": {
         "type": "Polygon",
@@ -35870,7 +36168,10 @@
         "Co2-Emissions": "69,259",
         "Country birth rate": 9.6,
         "Country armed force size": "126,000",
-        "Country agricultural land": "58.80%"
+        "Country agricultural land": "58.80%",
+        "Average IQ": 88,
+        "Daily consumption of oil barrels": 200000,
+        "Total cases of covid": "3,325,006"
       },
       "geometry": {
         "type": "Polygon",
@@ -36077,7 +36378,10 @@
         "Co2-Emissions": "1,732,027",
         "Country birth rate": 11.5,
         "Country armed force size": "1,454,000",
-        "Country agricultural land": "13.30%"
+        "Country agricultural land": "13.30%",
+        "Average IQ": 96,
+        "Daily consumption of oil barrels": 3631287,
+        "Total cases of covid": "21,958,696"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -38550,7 +38854,9 @@
         "Co2-Emissions": "1,115",
         "Country birth rate": 31.7,
         "Country armed force size": "35,000",
-        "Country agricultural land": "73.40%"
+        "Country agricultural land": "73.40%",
+        "Daily consumption of oil barrels": 6700,
+        "Total cases of covid": "133,090"
       },
       "geometry": {
         "type": "Polygon",
@@ -38771,7 +39077,10 @@
         "Co2-Emissions": "563,449",
         "Country birth rate": 17.8,
         "Country armed force size": "252,000",
-        "Country agricultural land": "80.80%"
+        "Country agricultural land": "80.80%",
+        "Average IQ": 77,
+        "Daily consumption of oil barrels": 3302000,
+        "Total cases of covid": "827,962"
       },
       "geometry": {
         "type": "Polygon",
@@ -39105,7 +39414,10 @@
         "Co2-Emissions": "20,000",
         "Country birth rate": 32.18,
         "Country armed force size": "124,000",
-        "Country agricultural land": "28.70%"
+        "Country agricultural land": "28.70%",
+        "Average IQ": 77,
+        "Daily consumption of oil barrels": 140000,
+        "Total cases of covid": "63,742"
       },
       "geometry": {
         "type": "Polygon",
@@ -39730,7 +40042,9 @@
         "Co2-Emissions": "10,902",
         "Country birth rate": 34.52,
         "Country armed force size": "19,000",
-        "Country agricultural land": "46.10%"
+        "Country agricultural land": "46.10%",
+        "Daily consumption of oil barrels": 49000,
+        "Total cases of covid": "88,902"
       },
       "geometry": {
         "type": "Polygon",
@@ -40129,7 +40443,10 @@
         "Co2-Emissions": "1,093",
         "Country birth rate": 33.41,
         "Country armed force size": "9,000",
-        "Country agricultural land": "54.70%"
+        "Country agricultural land": "54.70%",
+        "Average IQ": 52,
+        "Daily consumption of oil barrels": 6500,
+        "Total cases of covid": "7,760"
       },
       "geometry": {
         "type": "Polygon",
@@ -40248,7 +40565,10 @@
         "Co2-Emissions": "7,169",
         "Country birth rate": 18.25,
         "Country armed force size": "42,000",
-        "Country agricultural land": "76.40%"
+        "Country agricultural land": "76.40%",
+        "Average IQ": 72,
+        "Daily consumption of oil barrels": 52000,
+        "Total cases of covid": "201,785"
       },
       "geometry": {
         "type": "Polygon",
@@ -40481,7 +40801,10 @@
         "Co2-Emissions": "645",
         "Country birth rate": 41.75,
         "Country armed force size": "20,000",
-        "Country agricultural land": "70.30%"
+        "Country agricultural land": "70.30%",
+        "Average IQ": 69,
+        "Daily consumption of oil barrels": 5600,
+        "Total cases of covid": "27,318"
       },
       "geometry": {
         "type": "Polygon",
@@ -40656,7 +40979,10 @@
         "Co2-Emissions": "45,221",
         "Country birth rate": 9.2,
         "Country armed force size": "32,000",
-        "Country agricultural land": "39.30%"
+        "Country agricultural land": "39.30%",
+        "Average IQ": 89,
+        "Daily consumption of oil barrels": 74000,
+        "Total cases of covid": "2,471,198"
       },
       "geometry": {
         "type": "Polygon",
@@ -40870,7 +41196,9 @@
         "Co2-Emissions": "1,738",
         "Country birth rate": 18.54,
         "Country armed force size": "2,000",
-        "Country agricultural land": "0.60%"
+        "Country agricultural land": "0.60%",
+        "Daily consumption of oil barrels": 13000,
+        "Total cases of covid": "82,020"
       },
       "geometry": {
         "type": "Polygon",
@@ -41005,7 +41333,9 @@
         "Co2-Emissions": "32,424",
         "Country birth rate": 10.6,
         "Country armed force size": "16,000",
-        "Country agricultural land": "39.20%"
+        "Country agricultural land": "39.20%",
+        "Daily consumption of oil barrels": 81587,
+        "Total cases of covid": "1,860,893"
       },
       "geometry": {
         "type": "Polygon",
@@ -41168,7 +41498,9 @@
         "Co2-Emissions": "12,633",
         "Country birth rate": 9.4,
         "Country armed force size": "7,000",
-        "Country agricultural land": "30.70%"
+        "Country agricultural land": "30.70%",
+        "Daily consumption of oil barrels": 52298,
+        "Total cases of covid": "1,321,852"
       },
       "geometry": {
         "type": "Polygon",
@@ -41271,7 +41603,10 @@
         "Co2-Emissions": "43,252",
         "Country birth rate": 11.4,
         "Country armed force size": "30,000",
-        "Country agricultural land": "7.40%"
+        "Country agricultural land": "7.40%",
+        "Average IQ": 98,
+        "Daily consumption of oil barrels": 322109,
+        "Total cases of covid": "2,693,458"
       },
       "geometry": {
         "type": "Polygon",
@@ -41533,7 +41868,10 @@
         "Co2-Emissions": "28,830",
         "Country birth rate": 23.69,
         "Country armed force size": "239,000",
-        "Country agricultural land": "75.80%"
+        "Country agricultural land": "75.80%",
+        "Average IQ": 76,
+        "Daily consumption of oil barrels": 140000,
+        "Total cases of covid": "57,453"
       },
       "geometry": {
         "type": "Polygon",
@@ -41672,7 +42010,9 @@
         "Co2-Emissions": "1,016",
         "Country birth rate": 42.17,
         "Country armed force size": "35,000",
-        "Country agricultural land": "39.70%"
+        "Country agricultural land": "39.70%",
+        "Average IQ": 75,
+        "Total cases of covid": "7,652"
       },
       "geometry": {
         "type": "Polygon",
@@ -41935,7 +42275,9 @@
         "Co2-Emissions": "3,000",
         "Country birth rate": 33.11,
         "Country armed force size": "10,000",
-        "Country agricultural land": "70.20%"
+        "Country agricultural land": "70.20%",
+        "Daily consumption of oil barrels": 15000,
+        "Total cases of covid": "39,354"
       },
       "geometry": {
         "type": "Polygon",
@@ -42042,7 +42384,10 @@
         "Co2-Emissions": "283,763",
         "Country birth rate": 10.34,
         "Country armed force size": "455,000",
-        "Country agricultural land": "43.30%"
+        "Country agricultural land": "43.30%",
+        "Average IQ": 89,
+        "Daily consumption of oil barrels": 1302000,
+        "Total cases of covid": "4,726,984"
       },
       "geometry": {
         "type": "Polygon",
@@ -42329,7 +42674,9 @@
         "Co2-Emissions": "5,310",
         "Country birth rate": 30.76,
         "Country armed force size": "17,000",
-        "Country agricultural land": "34.10%"
+        "Country agricultural land": "34.10%",
+        "Daily consumption of oil barrels": 21000,
+        "Total cases of covid": "17,786"
       },
       "geometry": {
         "type": "Polygon",
@@ -42524,7 +42871,8 @@
         "Co2-Emissions": "70,630",
         "Country birth rate": 23.83,
         "Country armed force size": "42,000",
-        "Country agricultural land": "72.00%"
+        "Country agricultural land": "72.00%",
+        "Daily consumption of oil barrels": 149000
       },
       "geometry": {
         "type": "Polygon",
@@ -42766,7 +43114,8 @@
         "Estimated population": 1131612,
         "Length of the name": 11,
         "Number of terrorist attacks": 0,
-        "Number of university in the top 1000 worldwide": 0
+        "Number of university in the top 1000 worldwide": 0,
+        "Total cases of covid": "23,415"
       },
       "geometry": {
         "type": "Polygon",
@@ -42840,7 +43189,9 @@
         "Co2-Emissions": "43,868",
         "Country birth rate": 12.94,
         "Country armed force size": "4,000",
-        "Country agricultural land": "10.50%"
+        "Country agricultural land": "10.50%",
+        "Daily consumption of oil barrels": 57000,
+        "Total cases of covid": "187,908"
       },
       "geometry": {
         "type": "Polygon",
@@ -42903,7 +43254,9 @@
         "Co2-Emissions": "29,937",
         "Country birth rate": 17.56,
         "Country armed force size": "48,000",
-        "Country agricultural land": "64.80%"
+        "Country agricultural land": "64.80%",
+        "Daily consumption of oil barrels": 97000,
+        "Total cases of covid": "1,150,356"
       },
       "geometry": {
         "type": "Polygon",
@@ -43058,7 +43411,10 @@
         "Co2-Emissions": "372,725",
         "Country birth rate": 16.03,
         "Country armed force size": "512,000",
-        "Country agricultural land": "49.80%"
+        "Country agricultural land": "49.80%",
+        "Average IQ": 87,
+        "Daily consumption of oil barrels": 941861,
+        "Total cases of covid": "17,042,722"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -43359,7 +43715,9 @@
         "Length of the name": 6,
         "GDP per capita": 1.368,
         "Number of terrorist attacks": 50,
-        "Number of university in the top 1000 worldwide": 46
+        "Number of university in the top 1000 worldwide": 46,
+        "Daily consumption of oil barrels": 981203,
+        "Total cases of covid": "9,569,611"
       },
       "geometry": {
         "type": "Polygon",
@@ -43426,7 +43784,9 @@
         "Co2-Emissions": "11,973",
         "Country birth rate": 36.7,
         "Country armed force size": "28,000",
-        "Country agricultural land": "44.80%"
+        "Country agricultural land": "44.80%",
+        "Daily consumption of oil barrels": 71999,
+        "Total cases of covid": "42,664"
       },
       "geometry": {
         "type": "Polygon",
@@ -43653,7 +44013,9 @@
         "Co2-Emissions": "5,680",
         "Country birth rate": 38.14,
         "Country armed force size": "46,000",
-        "Country agricultural land": "71.90%"
+        "Country agricultural land": "71.90%",
+        "Daily consumption of oil barrels": 32001,
+        "Total cases of covid": "170,400"
       },
       "geometry": {
         "type": "Polygon",
@@ -43792,7 +44154,10 @@
         "Co2-Emissions": "202,250",
         "Country birth rate": 8.7,
         "Country armed force size": "297,000",
-        "Country agricultural land": "71.70%"
+        "Country agricultural land": "71.70%",
+        "Average IQ": 91,
+        "Daily consumption of oil barrels": 244000,
+        "Total cases of covid": "5,370,131"
       },
       "geometry": {
         "type": "Polygon",
@@ -44215,7 +44580,9 @@
         "Co2-Emissions": "6,766",
         "Country birth rate": 13.86,
         "Country armed force size": "22,000",
-        "Country agricultural land": "82.60%"
+        "Country agricultural land": "82.60%",
+        "Daily consumption of oil barrels": 53000,
+        "Total cases of covid": "1,032,710"
       },
       "geometry": {
         "type": "Polygon",
@@ -44330,7 +44697,9 @@
         "Co2-Emissions": "5,006,302",
         "Country birth rate": 11.6,
         "Country armed force size": "1,359,000",
-        "Country agricultural land": "44.40%"
+        "Country agricultural land": "44.40%",
+        "Average IQ": 97,
+        "Daily consumption of oil barrels": 19687287
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -46175,7 +46544,9 @@
         "Co2-Emissions": "91,811",
         "Country birth rate": 23.3,
         "Country armed force size": "68,000",
-        "Country agricultural land": "62.90%"
+        "Country agricultural land": "62.90%",
+        "Daily consumption of oil barrels": 49000,
+        "Total cases of covid": "250,567"
       },
       "geometry": {
         "type": "Polygon",
@@ -46422,7 +46793,10 @@
         "Co2-Emissions": "164,175",
         "Country birth rate": 17.88,
         "Country armed force size": "343,000",
-        "Country agricultural land": "24.50%"
+        "Country agricultural land": "24.50%",
+        "Average IQ": 83,
+        "Daily consumption of oil barrels": 598000,
+        "Total cases of covid": "551,587"
       },
       "geometry": {
         "type": "Polygon",
@@ -46821,7 +47195,10 @@
         "Co2-Emissions": "192,668",
         "Country birth rate": 16.75,
         "Country armed force size": "522,000",
-        "Country agricultural land": "39.30%"
+        "Country agricultural land": "39.30%",
+        "Average IQ": 91,
+        "Daily consumption of oil barrels": 478000,
+        "Total cases of covid": "11,526,508"
       },
       "geometry": {
         "type": "Polygon",
@@ -47027,7 +47404,9 @@
         "Co2-Emissions": "147",
         "Country birth rate": 29.6,
         "Country armed force size": 0,
-        "Country agricultural land": "15.30%"
+        "Country agricultural land": "15.30%",
+        "Daily consumption of oil barrels": 1100,
+        "Total cases of covid": "12,014"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -47112,7 +47491,9 @@
         "Co2-Emissions": "10,609",
         "Country birth rate": 30.45,
         "Country armed force size": "40,000",
-        "Country agricultural land": "44.60%"
+        "Country agricultural land": "44.60%",
+        "Daily consumption of oil barrels": 60000,
+        "Total cases of covid": "11,945"
       },
       "geometry": {
         "type": "Polygon",
@@ -47319,7 +47700,10 @@
         "Co2-Emissions": "476,644",
         "Country birth rate": 20.51,
         "Country armed force size": "80,000",
-        "Country agricultural land": "79.80%"
+        "Country agricultural land": "79.80%",
+        "Average IQ": 69,
+        "Daily consumption of oil barrels": 640000,
+        "Total cases of covid": "4,055,966"
       },
       "geometry": {
         "type": "Polygon",
@@ -47728,7 +48112,9 @@
         "Co2-Emissions": "5,141",
         "Country birth rate": 36.19,
         "Country armed force size": "16,000",
-        "Country agricultural land": "32.10%"
+        "Country agricultural land": "32.10%",
+        "Daily consumption of oil barrels": 22000,
+        "Total cases of covid": "340,763"
       },
       "geometry": {
         "type": "Polygon",
@@ -48003,7 +48389,10 @@
         "Co2-Emissions": "10,983",
         "Country birth rate": 30.68,
         "Country armed force size": "51,000",
-        "Country agricultural land": "41.90%"
+        "Country agricultural land": "41.90%",
+        "Average IQ": 74,
+        "Daily consumption of oil barrels": 24000,
+        "Total cases of covid": "261,606"
       },
       "geometry": {
         "type": "Polygon",
